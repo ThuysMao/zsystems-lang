@@ -1,0 +1,27 @@
+{
+    "title": "Dashboard",
+    "serverCard": {
+        "connect": "Connect",
+        "noMap": "No map",
+        "players": "{current}/{max} Players",
+        "offline": "Offline"
+    },
+    "serverDetail": {
+        "players": "Players",
+        "noPlayers": "No players",
+        "teamCT": "Counter-Terrorists",
+        "teamT": "Terrorists",
+        "teamUnassigned": "Unassigned",
+        "contextMenu": {
+            "viewSteamProfile": "View Steam Profile",
+            "copySteamId": "Copy SteamID",
+            "copyPlayerName": "Copy Player Name",
+            "copyStats": "Copy Stats"
+        }
+    },
+    "stats": {
+        "kills": "K",
+        "deaths": "D",
+        "score": "Score"
+    }
+}

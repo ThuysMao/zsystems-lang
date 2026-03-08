@@ -1,0 +1,27 @@
+{
+    "title": "Bảng điều khiển",
+    "serverCard": {
+        "connect": "Kết nối",
+        "noMap": "Không có bản đồ",
+        "players": "{current}/{max} Người chơi",
+        "offline": "Ngoại tuyến"
+    },
+    "serverDetail": {
+        "players": "Người chơi",
+        "noPlayers": "Không có người chơi",
+        "teamCT": "Chống Khủng bố",
+        "teamT": "Khủng bố",
+        "teamUnassigned": "Chưa phân đội",
+        "contextMenu": {
+            "viewSteamProfile": "Xem hồ sơ Steam",
+            "copySteamId": "Sao chép SteamID",
+            "copyPlayerName": "Sao chép tên người chơi",
+            "copyStats": "Sao chép thống kê"
+        }
+    },
+    "stats": {
+        "kills": "K",
+        "deaths": "D",
+        "score": "Điểm"
+    }
+}
