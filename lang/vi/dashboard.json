@@ -1,5 +1,12 @@
 {
     "title": "Bảng điều khiển",
+    "subtitle": "Tổng quan & quản lý máy chủ",
+    "servers": {
+        "title": "Máy chủ",
+        "count": "{count} máy chủ",
+        "allServers": "Tất cả",
+        "noServers": "Không có máy chủ trong nhóm này"
+    },
     "serverCard": {
         "connect": "Kết nối",
         "noMap": "Không có bản đồ",
@@ -12,16 +19,39 @@
         "teamCT": "Chống Khủng bố",
         "teamT": "Khủng bố",
         "teamUnassigned": "Chưa phân đội",
+        "serverInfo": "Thông tin máy chủ",
+        "chat": "Chat",
         "contextMenu": {
             "viewSteamProfile": "Xem hồ sơ Steam",
             "copySteamId": "Sao chép SteamID",
-            "copyPlayerName": "Sao chép tên người chơi",
+            "copyPlayerName": "Sao chép tên",
             "copyStats": "Sao chép thống kê"
-        }
+        },
+        "spectators": "Khán giả",
+        "noSpectators": "Không có khán giả",
+        "copied": "Đã sao chép {label}",
+        "unknown": "Không rõ"
     },
     "stats": {
+        "totalServers": "Tổng máy chủ",
+        "playersOnline": "Đang chơi",
+        "totalBans": "Tổng Ban",
+        "totalMutes": "Tổng Mute",
         "kills": "K",
         "deaths": "D",
         "score": "Điểm"
+    },
+    "penalty": {
+        "title": "Xử phạt",
+        "bans": "Bans",
+        "mutes": "Mutes",
+        "records": "{count} bản ghi",
+        "noRecords": "Không tìm thấy bản ghi",
+        "player": "Người chơi",
+        "status": "Trạng thái",
+        "type": "Loại",
+        "reason": "Lý do",
+        "duration": "Thời hạn",
+        "timeLeft": "Còn lại"
     }
 }

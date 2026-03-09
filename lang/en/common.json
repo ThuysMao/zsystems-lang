@@ -2,6 +2,9 @@
     "nav": {
         "home": "Home",
         "dashboard": "Dashboard",
+        "account": "Account",
+        "security": "Security",
+        "settings": "Settings",
         "login": "Login",
         "register": "Register",
         "logout": "Logout"
@@ -15,12 +18,14 @@
         "confirm": "Confirm",
         "delete": "Delete",
         "edit": "Edit",
-        "back": "Back"
+        "back": "Back",
+        "retry": "Retry",
+        "search": "Search..."
     },
     "status": {
         "online": "Online",
         "offline": "Offline",
-        "loading": "Loading...",
+        "loading": "Loading",
         "error": "Error",
         "success": "Success"
     },
@@ -30,5 +35,29 @@
     },
     "footer": {
         "rights": "All rights reserved"
+    },
+    "sidebar": {
+        "collapse": "Collapse",
+        "expand": "Expand",
+        "language": "Language",
+        "theme": "Theme",
+        "terms": "Terms & Privacy",
+        "guest": "Guest"
+    },
+    "errors": {
+        "notFound": {
+            "title": "404",
+            "message": "The page you are looking for does not exist",
+            "home": "Home",
+            "back": "Go back"
+        },
+        "serverError": {
+            "title": "500",
+            "message": "An unexpected error occurred",
+            "errorCode": "Error code: {code}",
+            "pleaseRetry": "Please try again",
+            "retry": "Retry",
+            "home": "Home"
+        }
     }
 }

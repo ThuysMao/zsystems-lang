@@ -1,7 +1,21 @@
 {
-    "title": "Trang chủ",
     "hero": {
-        "heading": "Chào mừng",
-        "subheading": "Nền tảng cộng đồng gaming hiện đại"
+        "letsPlayNow": "Chơi ngay nào!",
+        "wantToBeVip": "Trở thành VIP?",
+        "loginToZsystems": "Đăng nhập zSystems",
+        "weaponSkins": "Skin Vũ Khí",
+        "ranks": "Bảng Xếp Hạng",
+        "contact": "Liên Hệ",
+        "getDemo": "Xem Demo"
+    },
+    "stats": {
+        "uptime": "THỜI GIAN HOẠT ĐỘNG",
+        "ping": "ĐỘ TRỄ",
+        "players6h": "NGƯỜI CHƠI / 6H"
+    },
+    "footer": {
+        "privacy": "Bảo mật",
+        "terms": "Điều khoản",
+        "contact": "Liên hệ"
     }
 }

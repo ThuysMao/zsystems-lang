@@ -1,5 +1,12 @@
 {
     "title": "Dashboard",
+    "subtitle": "Server overview & management",
+    "servers": {
+        "title": "Servers",
+        "count": "{count} servers",
+        "allServers": "All servers",
+        "noServers": "No servers in this group"
+    },
     "serverCard": {
         "connect": "Connect",
         "noMap": "No map",
@@ -12,16 +19,39 @@
         "teamCT": "Counter-Terrorists",
         "teamT": "Terrorists",
         "teamUnassigned": "Unassigned",
+        "serverInfo": "Server Info",
+        "chat": "Chat",
         "contextMenu": {
             "viewSteamProfile": "View Steam Profile",
             "copySteamId": "Copy SteamID",
             "copyPlayerName": "Copy Player Name",
             "copyStats": "Copy Stats"
-        }
+        },
+        "spectators": "Spectators",
+        "noSpectators": "No spectators",
+        "copied": "Copied {label}",
+        "unknown": "Unknown"
     },
     "stats": {
+        "totalServers": "Total Servers",
+        "playersOnline": "Players Online",
+        "totalBans": "Total Bans",
+        "totalMutes": "Total Mutes",
         "kills": "K",
         "deaths": "D",
         "score": "Score"
+    },
+    "penalty": {
+        "title": "Penalty",
+        "bans": "Bans",
+        "mutes": "Mutes",
+        "records": "{count} records",
+        "noRecords": "No records found",
+        "player": "Player",
+        "status": "Status",
+        "type": "Type",
+        "reason": "Reason",
+        "duration": "Duration",
+        "timeLeft": "Time left"
     }
 }

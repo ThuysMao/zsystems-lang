@@ -1,7 +1,21 @@
 {
-    "title": "Home",
     "hero": {
-        "heading": "Welcome",
-        "subheading": "Modern gaming community platform"
+        "letsPlayNow": "Let's Play Now!",
+        "wantToBeVip": "Want to be a VIP?",
+        "loginToZsystems": "Login to zSystems",
+        "weaponSkins": "Weapon Skins",
+        "ranks": "Ranks",
+        "contact": "Contact",
+        "getDemo": "Get Demo"
+    },
+    "stats": {
+        "uptime": "UPTIME",
+        "ping": "PING",
+        "players6h": "PLAYERS / 6H"
+    },
+    "footer": {
+        "privacy": "Privacy",
+        "terms": "Terms",
+        "contact": "Contact"
     }
 }

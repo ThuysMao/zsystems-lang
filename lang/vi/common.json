@@ -2,6 +2,9 @@
     "nav": {
         "home": "Trang chủ",
         "dashboard": "Bảng điều khiển",
+        "account": "Tài khoản",
+        "security": "Bảo mật",
+        "settings": "Cài đặt",
         "login": "Đăng nhập",
         "register": "Đăng ký",
         "logout": "Đăng xuất"
@@ -15,12 +18,14 @@
         "confirm": "Xác nhận",
         "delete": "Xóa",
         "edit": "Sửa",
-        "back": "Quay lại"
+        "back": "Quay lại",
+        "retry": "Thử lại",
+        "search": "Tìm kiếm..."
     },
     "status": {
         "online": "Trực tuyến",
         "offline": "Ngoại tuyến",
-        "loading": "Đang tải...",
+        "loading": "Đang tải",
         "error": "Lỗi",
         "success": "Thành công"
     },
@@ -30,5 +35,29 @@
     },
     "footer": {
         "rights": "Mọi quyền được bảo lưu"
+    },
+    "sidebar": {
+        "collapse": "Thu gọn",
+        "expand": "Mở rộng",
+        "language": "Ngôn ngữ",
+        "theme": "Màu chủ đề",
+        "terms": "Điều khoản & Bảo mật",
+        "guest": "Khách"
+    },
+    "errors": {
+        "notFound": {
+            "title": "404",
+            "message": "Trang bạn tìm kiếm không tồn tại",
+            "home": "Trang chủ",
+            "back": "Quay lại"
+        },
+        "serverError": {
+            "title": "500",
+            "message": "Đã xảy ra lỗi không mong muốn",
+            "errorCode": "Mã lỗi: {code}",
+            "pleaseRetry": "Vui lòng thử lại",
+            "retry": "Thử lại",
+            "home": "Trang chủ"
+        }
     }
 }
