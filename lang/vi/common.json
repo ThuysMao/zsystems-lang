@@ -5,6 +5,11 @@
         "account": "Tài khoản",
         "security": "Bảo mật",
         "settings": "Cài đặt",
+        "servers": "Máy chủ",
+        "bans": "Bans",
+        "mutes": "Mutes / Gags",
+        "skins": "Skins",
+        "admin": "Admin Panel",
         "login": "Đăng nhập",
         "register": "Đăng ký",
         "logout": "Đăng xuất"
@@ -42,7 +47,8 @@
         "language": "Ngôn ngữ",
         "theme": "Màu chủ đề",
         "terms": "Điều khoản & Bảo mật",
-        "guest": "Khách"
+        "guest": "Khách",
+        "settings": "Cài đặt"
     },
     "errors": {
         "notFound": {

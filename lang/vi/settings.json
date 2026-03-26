@@ -1,0 +1,39 @@
+{
+    "title": "Cài đặt",
+    "description": "Quản lý giao diện và tùy chọn hiển thị của bạn.",
+    "tabs": {
+        "general": "Chung",
+        "notifications": "Thông báo",
+        "profile": "Hồ sơ"
+    },
+    "general": {
+        "title": "Cài đặt chung",
+        "colorMode": "Chế độ màu",
+        "colorModeHint": "Chọn chế độ hiển thị giao diện.",
+        "light": "Sáng",
+        "auto": "Tự động",
+        "dark": "Tối",
+        "themeColor": "Màu chủ đề",
+        "themeColorHint": "Chọn màu nhấn cho giao diện.",
+        "language": "Ngôn ngữ",
+        "languageHint": "Chọn ngôn ngữ hiển thị trên trang web."
+    },
+    "notifications": {
+        "title": "Thông báo",
+        "description": "Quản lý cách bạn nhận thông báo.",
+        "comingSoon": "Tính năng thông báo sẽ sớm được cập nhật."
+    },
+    "profile": {
+        "title": "Cập nhật hồ sơ",
+        "description": "Đồng bộ avatar và tên hiển thị từ Discord và Steam.",
+        "updateButton": "Cập nhật hồ sơ",
+        "updating": "Đang cập nhật...",
+        "success": "Cập nhật hồ sơ thành công!",
+        "successDetail": "Avatar và tên hiển thị đã được đồng bộ.",
+        "error": "Không thể cập nhật hồ sơ",
+        "errorDetail": "Vui lòng thử lại sau.",
+        "discordSynced": "Discord đã đồng bộ",
+        "steamSynced": "Steam đã đồng bộ",
+        "hint": "Nhấn nút bên dưới để cập nhật avatar và tên hiển thị mới nhất từ Discord và Steam."
+    }
+}

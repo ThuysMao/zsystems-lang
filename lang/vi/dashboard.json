@@ -52,6 +52,33 @@
         "type": "Loại",
         "reason": "Lý do",
         "duration": "Thời hạn",
-        "timeLeft": "Còn lại"
+        "timeLeft": "Còn lại",
+        "admin": "Admin",
+        "removeReason": "Lý do gỡ",
+        "dateTime": "Ngày / Giờ",
+        "statusActive": "Còn hiệu lực",
+        "statusExpired": "Đã hết hạn",
+        "statusUnbanned": "Đã gỡ",
+        "permanent": "Vĩnh viễn",
+        "expired": "Hết hạn",
+        "viewAll": "Xem tất cả",
+        "durationMinutes": "{value} phút",
+        "durationHours": "{value} giờ",
+        "durationDays": "{value} ngày",
+        "page": "Trang {page}/{total}",
+        "previous": "Trước",
+        "next": "Sau",
+        "ctx": {
+            "viewSteam": "Xem Steam Profile",
+            "comment": "Bình luận",
+            "reban": "Cấm lại",
+            "remute": "Cấm chat lại",
+            "editBan": "Chỉnh sửa lệnh cấm",
+            "editMute": "Chỉnh sửa cấm chat",
+            "removeBan": "Gỡ lệnh cấm",
+            "removeMute": "Gỡ cấm chat",
+            "deleteBan": "Xoá lệnh cấm",
+            "deleteMute": "Xoá cấm chat"
+        }
     }
 }

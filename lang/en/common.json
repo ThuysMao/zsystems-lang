@@ -5,6 +5,11 @@
         "account": "Account",
         "security": "Security",
         "settings": "Settings",
+        "servers": "Servers",
+        "bans": "Bans",
+        "mutes": "Mutes / Gags",
+        "skins": "Skins",
+        "admin": "Admin Panel",
         "login": "Login",
         "register": "Register",
         "logout": "Logout"
@@ -42,7 +47,8 @@
         "language": "Language",
         "theme": "Theme",
         "terms": "Terms & Privacy",
-        "guest": "Guest"
+        "guest": "Guest",
+        "settings": "Settings"
     },
     "errors": {
         "notFound": {

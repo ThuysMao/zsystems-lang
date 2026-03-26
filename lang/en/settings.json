@@ -1,0 +1,39 @@
+{
+    "title": "Settings",
+    "description": "Manage your display and appearance preferences.",
+    "tabs": {
+        "general": "General",
+        "notifications": "Notifications",
+        "profile": "Profile"
+    },
+    "general": {
+        "title": "General settings",
+        "colorMode": "Color mode",
+        "colorModeHint": "Choose the display mode for the interface.",
+        "light": "Light",
+        "auto": "Auto",
+        "dark": "Dark",
+        "themeColor": "Theme color",
+        "themeColorHint": "Choose the accent color for the interface.",
+        "language": "Language",
+        "languageHint": "Choose the display language for the website."
+    },
+    "notifications": {
+        "title": "Notifications",
+        "description": "Manage how you receive notifications.",
+        "comingSoon": "Notification settings are coming soon."
+    },
+    "profile": {
+        "title": "Update Profile",
+        "description": "Sync your avatar and display name from Discord and Steam.",
+        "updateButton": "Update Profile",
+        "updating": "Updating...",
+        "success": "Profile updated successfully!",
+        "successDetail": "Your avatar and display name have been synced.",
+        "error": "Failed to update profile",
+        "errorDetail": "Please try again later.",
+        "discordSynced": "Discord synced",
+        "steamSynced": "Steam synced",
+        "hint": "Click the button below to fetch the latest avatar and display name from Discord and Steam."
+    }
+}

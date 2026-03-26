@@ -52,6 +52,33 @@
         "type": "Type",
         "reason": "Reason",
         "duration": "Duration",
-        "timeLeft": "Time left"
+        "timeLeft": "Time left",
+        "admin": "Admin",
+        "removeReason": "Remove Reason",
+        "dateTime": "Date / Time",
+        "statusActive": "Active",
+        "statusExpired": "Expired",
+        "statusUnbanned": "Unbanned",
+        "permanent": "Permanent",
+        "expired": "Expired",
+        "viewAll": "View all",
+        "durationMinutes": "{value} min",
+        "durationHours": "{value} hours",
+        "durationDays": "{value} days",
+        "page": "Page {page}/{total}",
+        "previous": "Previous",
+        "next": "Next",
+        "ctx": {
+            "viewSteam": "View Steam Profile",
+            "comment": "Comment",
+            "reban": "Re-ban",
+            "remute": "Re-mute",
+            "editBan": "Edit Ban",
+            "editMute": "Edit Mute",
+            "removeBan": "Remove Ban",
+            "removeMute": "Remove Mute",
+            "deleteBan": "Delete Ban",
+            "deleteMute": "Delete Mute"
+        }
     }
 }
