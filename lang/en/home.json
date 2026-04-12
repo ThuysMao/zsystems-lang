@@ -1,12 +1,23 @@
 {
     "hero": {
+        "explore": "Explore",
+        "store": "Store",
         "letsPlayNow": "Let's Play Now!",
         "wantToBeVip": "Want to be a VIP?",
         "loginToZsystems": "Login to zSystems",
         "weaponSkins": "Weapon Skins",
         "ranks": "Ranks",
         "contact": "Contact",
-        "getDemo": "Get Demo"
+        "getDemo": "Get Demo",
+        "subbrand": "zSYSTEMS-v2",
+        "playNow": "Play Now",
+        "login": "Login",
+        "joinVip": "Join VIP/SVIP Privileges"
+    },
+    "nav": {
+        "community": "Community",
+        "ranks": "Ranks",
+        "support": "Support"
     },
     "stats": {
         "uptime": "UPTIME",
@@ -14,8 +25,11 @@
         "players6h": "PLAYERS / 6H"
     },
     "footer": {
-        "privacy": "Privacy",
-        "terms": "Terms",
-        "contact": "Contact"
+        "selectLanguage": "Select language",
+        "language": "English",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "contact": "Contact",
+        "poweredBy": "Powered by zSystems — Developed by zhw1nq & 7-Mau TEAM"
     }
 }

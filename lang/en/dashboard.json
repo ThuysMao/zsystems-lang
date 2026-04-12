@@ -80,5 +80,52 @@
             "deleteBan": "Delete Ban",
             "deleteMute": "Delete Mute"
         }
+    },
+    "privilege": {
+        "title": "Server Privileges",
+        "description": "Upgrade your account to unlock exclusive cosmetics and priority access. Choose the tier that fits you.",
+        "discount": "Save",
+        "month1": "1 Month",
+        "months3": "3 Months",
+        "mostPopular": "MOST POPULAR",
+        "periodMonthly": "/ 31 Days",
+        "periodQuarterly": "/ 90 Days",
+        "currentPlan": "CURRENT PLAN",
+        "tiers": {
+            "member": {
+                "name": "FREE",
+                "priceMonthly": "FREE",
+                "priceQuarterly": "FREE",
+                "description": "Basic experience",
+                "button": "PLAY NOW"
+            },
+            "svip": {
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "Ultimate prestige",
+                "button": "UPGRADE"
+            },
+            "vip": {
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "Enhanced experience",
+                "button": "UPGRADE"
+            }
+        },
+        "features": {
+            "customSkins": "Customize Knife, Gloves, Weapons",
+            "createCollections": "Create Skin Collections",
+            "mvpPackFree": "Use Free MVP Pack",
+            "publicServers": "Join Community Servers",
+            "prioritySlot": "Priority Server Slot Access",
+            "fastSupport": "Priority Admin Support",
+            "mvpPackVip": "Unlock VIP MVP Pack",
+            "customLoadout": "Custom Loadout Configuration",
+            "agentWibu3D": "Exclusive 3D Wibu Agents",
+            "weaponWibu3D": "Supreme 3D Wibu Weapons",
+            "adminPrivileges": "Supreme Admin Privileges"
+        }
     }
 }

@@ -1,12 +1,23 @@
 {
     "hero": {
+        "explore": "Khám Phá",
+        "store": "Cửa Hàng",
         "letsPlayNow": "Chơi ngay nào!",
         "wantToBeVip": "Trở thành VIP?",
         "loginToZsystems": "Đăng nhập zSystems",
         "weaponSkins": "Skin Vũ Khí",
         "ranks": "Bảng Xếp Hạng",
         "contact": "Liên Hệ",
-        "getDemo": "Xem Demo"
+        "getDemo": "Xem Demo",
+        "subbrand": "zSYSTEMS-v2",
+        "playNow": "Chơi Ngay",
+        "login": "Đăng Nhập",
+        "joinVip": "Tham gia đặc quyền VIP/SVIP"
+    },
+    "nav": {
+        "community": "Cộng Đồng",
+        "ranks": "Xếp Hạng",
+        "support": "Hỗ Trợ"
     },
     "stats": {
         "uptime": "THỜI GIAN HOẠT ĐỘNG",
@@ -14,8 +25,11 @@
         "players6h": "NGƯỜI CHƠI / 6H"
     },
     "footer": {
-        "privacy": "Bảo mật",
-        "terms": "Điều khoản",
-        "contact": "Liên hệ"
+        "selectLanguage": "Chọn ngôn ngữ",
+        "language": "Tiếng Việt",
+        "privacy": "Chính sách Quyền riêng tư",
+        "terms": "Điều khoản Dịch vụ",
+        "contact": "Liên hệ",
+        "poweredBy": "Powered by zSystems — Developed by zhw1nq & 7-Mau TEAM"
     }
 }
