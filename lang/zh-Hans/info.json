@@ -1,0 +1,45 @@
+{
+    "hero": {
+        "badge": "2.0 版本 - 现已推出",
+        "title": "综合管理系统，专为",
+        "titleHighlight": "CS2 服务器",
+        "subtitle": "集 SSH、RCON、玩家管理、Web UI、Discord 机器人 API 及更多功能于一体的综合平台。",
+        "getStarted": "开始使用",
+        "viewDocs": "查看文档"
+    },
+    "stats": {
+        "servers": "服务器",
+        "players": "玩家",
+        "uptime": "正常运行时间",
+        "features": "功能"
+    },
+    "features": {
+        "badge": "功能",
+        "title": "您所需要的一切",
+        "subtitle": "管理 CS2 服务器的强大工具",
+        "sshRcon": "SSH 与 RCON",
+        "sshRconDesc": "使用内置的 SSH 和 RCON 远程管理服务器。",
+        "playerManagement": "玩家管理",
+        "playerManagementDesc": "全面追踪、封禁、禁言及管理玩家。",
+        "serverListChanger": "服务器列表修改器",
+        "serverListChangerDesc": "用于服务器列表修改器的客户端界面。",
+        "webUI": "Web 用户界面",
+        "webUIDesc": "现代化、响应式的用户 Web 界面。",
+        "discordBot": "Discord 机器人 API",
+        "discordBotDesc": "免费、易于配置的 Discord 机器人 API 集成。",
+        "dataManagement": "数据管理",
+        "dataManagementDesc": "集中、安全、高效的数据管理。",
+        "multiServer": "多服务器支持",
+        "multiServerDesc": "支持同时管理多台服务器。",
+        "customize": "自定义",
+        "customizeDesc": "根据您的需求自定义一切。"
+    },
+    "cta": {
+        "title": "准备好开始了吗？",
+        "subtitle": "免费注册，立即体验。",
+        "register": "免费注册",
+        "free": "免费",
+        "noCard": "无需信用卡",
+        "support247": "7x24 小时全天候支持"
+    }
+}

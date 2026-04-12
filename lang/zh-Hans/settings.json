@@ -1,0 +1,261 @@
+{
+    "title": "设置",
+    "description": "管理您的显示和外观偏好。",
+    "tabs": {
+        "general": "常规",
+        "security": "安全",
+        "account": "账户",
+        "notifications": "通知"
+    },
+    "nav": {
+        "colorMode": "色彩模式",
+        "themeColor": "主题颜色",
+        "language": "语言",
+        "changePassword": "修改密码",
+        "twoFactor": "双重身份验证",
+        "sessions": "登录会话",
+        "loginHistory": "登录历史",
+        "profile": "个人信息",
+        "email": "电子邮件",
+        "linkedAccounts": "已绑定的账户",
+        "dangerZone": "危险区域",
+        "securityAlerts": "安全警报",
+        "activityAlerts": "账户活动",
+        "marketing": "市场营销"
+    },
+    "general": {
+        "title": "常规设置",
+        "colorMode": "色彩模式",
+        "colorModeHint": "选择界面的显示模式。",
+        "light": "浅色",
+        "auto": "自动",
+        "dark": "深色",
+        "themeColor": "主题颜色",
+        "themeColorHint": "选择界面的强调色。",
+        "language": "语言",
+        "languageHint": "选择网站的显示语言。"
+    },
+    "security": {
+        "title": "账户安全",
+        "description": "管理您的密码、双重身份验证和登录会话。",
+        "changePassword": {
+            "title": "修改密码",
+            "description": "更新您的密码以保证账户安全。",
+            "currentPassword": "当前密码",
+            "newPassword": "新密码",
+            "confirmPassword": "确认新密码",
+            "submit": "修改密码",
+            "submitting": "处理中...",
+            "success": "密码修改成功",
+            "successDetail": "您的密码已更新。其他登录会话均已注销。",
+            "error": "修改密码失败",
+            "mismatch": "密码不匹配",
+            "lastChanged": "最后修改时间：{date}",
+            "neverChanged": "密码从未修改过"
+        },
+        "twoFactor": {
+            "title": "双重身份验证 (2FA)",
+            "description": "为您的账户增加额外的安全层。",
+            "enabled": "已启用",
+            "disabled": "已禁用",
+            "enable": "启用 2FA",
+            "disable": "禁用 2FA",
+            "setupTitle": "设置 2FA",
+            "setupStep1": "使用您的身份验证器应用（如 Google Authenticator、Authy 等）扫描下方二维码",
+            "setupStep2": "输入您的应用中显示的 6 位数代码以进行确认",
+            "manualEntry": "手动输入",
+            "manualEntryHint": "如果您无法扫描二维码，请在您的身份验证器应用中输入此代码。",
+            "verificationCode": "验证码",
+            "verificationCodeHint": "输入您的身份验证器应用中的 6 位数代码",
+            "verify": "验证",
+            "verifying": "验证中...",
+            "setupSuccess": "2FA 启用成功！",
+            "setupSuccessDetail": "您的账户现在已受到双重身份验证的保护。",
+            "setupError": "启用 2FA 失败",
+            "disableConfirm": "确认禁用 2FA",
+            "disableWarning": "禁用 2FA 将降低您的账户安全性。请输入密码以确认。",
+            "disablePassword": "输入密码以确认",
+            "disableSuccess": "2FA 已禁用",
+            "disableError": "禁用 2FA 失败",
+            "recoveryCodes": "恢复代码",
+            "recoveryCodesHint": "请将这些代码妥善保存在安全的地方。当您无法使用身份验证器应用时，每个代码只能使用一次。",
+            "recoveryCodesSaved": "我已保存我的恢复代码",
+            "copyAll": "复制全部"
+        },
+        "sessions": {
+            "title": "登录会话",
+            "description": "管理当前已登录您账户的设备。",
+            "currentSession": "当前会话",
+            "revokeAll": "注销所有其他设备",
+            "revokeAllConfirm": "您确定要注销所有其他设备吗？",
+            "revokeAllSuccess": "已注销 {count} 个会话",
+            "revoke": "注销",
+            "revokeConfirm": "您确定要注销此会话吗？",
+            "revokeSuccess": "会话已注销",
+            "revokeError": "注销会话失败",
+            "noSessions": "无活动会话",
+            "lastActive": "最后活动：{time}",
+            "device": {
+                "desktop": "桌面端",
+                "mobile": "移动端",
+                "tablet": "平板端",
+                "unknown": "未知"
+            }
+        },
+        "loginHistory": {
+            "title": "登录历史",
+            "description": "查看近期安全活动。",
+            "noLogs": "暂无活动",
+            "showMore": "显示更多",
+            "events": {
+                "login_success": "登录成功",
+                "login_failed": "尝试登录失败",
+                "login_passkey": "通行密钥登录",
+                "register": "账户已注册",
+                "logout": "已注销",
+                "password_change": "密码已修改",
+                "password_reset_request": "请求重置密码",
+                "password_reset_complete": "密码重置完成",
+                "two_factor_enable": "2FA 已启用",
+                "two_factor_disable": "2FA 已禁用",
+                "two_factor_verify": "2FA 已验证",
+                "passkey_register": "通行密钥已添加",
+                "passkey_remove": "通行密钥已移除",
+                "account_lock": "账户已锁定",
+                "account_unlock": "账户已解锁",
+                "account_suspend": "账户被封停",
+                "account_ban": "账户被封禁",
+                "account_reactivate": "账户已重新激活",
+                "oauth_link": "OAuth 已绑定",
+                "oauth_unlink": "OAuth 已解绑",
+                "session_revoke": "会话被撤销",
+                "session_revoke_all": "所有会话均被撤销",
+                "email_change": "电子邮件已修改",
+                "profile_update": "个人资料已更新",
+                "suspicious_activity": "检测到可疑活动"
+            }
+        },
+        "alerts": {
+            "title": "安全警报",
+            "description": "当您的账户出现可疑活动时收到通知。",
+            "emailOnNewLogin": "新登录时发送电子邮件",
+            "emailOnNewLoginHint": "当有人从新设备或新位置登录时收到电子邮件。",
+            "emailOnPasswordChange": "修改密码时发送电子邮件",
+            "emailOnPasswordChangeHint": "当您的密码被修改时收到确认电子邮件。"
+        }
+    },
+    "account": {
+        "title": "账户",
+        "description": "查看您的个人信息并管理您的账户。",
+        "profile": {
+            "title": "个人信息",
+            "description": "您的账户信息。部分数据已从 Discord 同步。",
+            "username": "用户名",
+            "sevenId": "7ID",
+            "email": "电子邮件",
+            "displayName": "显示名称",
+            "registeredAt": "注册时间",
+            "status": "状态",
+            "statusActive": "生效中",
+            "statusSuspended": "已封停",
+            "statusBanned": "已封禁",
+            "statusPending": "等待验证",
+            "updateButton": "从 Discord 和 Steam 更新",
+            "updating": "更新中...",
+            "updateSuccess": "个人资料更新成功！",
+            "updateSuccessDetail": "头像和显示名称已同步。",
+            "updateError": "更新个人资料失败",
+            "updateErrorDetail": "请稍后再试。",
+            "discordSynced": "Discord 已同步",
+            "steamSynced": "Steam 已同步"
+        },
+        "avatar": {
+            "title": "头像",
+            "description": "您当前的头像已从 Discord 同步。",
+            "comingSoon": "自定义头像上传 — 敬请期待"
+        },
+        "email": {
+            "title": "电子邮件",
+            "description": "用于您 zSystems 账户的电子邮件。",
+            "verified": "已验证",
+            "unverified": "未验证",
+            "sendVerification": "发送验证邮件",
+            "verificationSent": "验证邮件已发送",
+            "verificationError": "发送验证邮件失败"
+        },
+        "linkedAccounts": {
+            "title": "已绑定的账户",
+            "description": "与您 zSystems 账户绑定的 Discord 和 Steam 账户。",
+            "discord": "Discord",
+            "steam": "Steam",
+            "linkedAt": "已绑定：{date}",
+            "notLinked": "未绑定"
+        },
+        "dangerZone": {
+            "title": "危险区域",
+            "description": "不可逆转的操作。",
+            "deactivate": {
+                "title": "停用账户",
+                "description": "暂时停用您的账户。您可以通过联系支持人员重新激活。",
+                "button": "停用账户",
+                "confirm": "确认停用",
+                "confirmMessage": "您确定要停用您的账户吗？您将被注销，且在重新激活前无法登录。",
+                "password": "输入密码以确认",
+                "success": "账户已停用",
+                "error": "停用账户失败"
+            },
+            "delete": {
+                "title": "删除账户",
+                "description": "在 12 小时后永久删除您的账户及其所有数据。此操作无法撤销。",
+                "button": "删除账户",
+                "confirm": "确认删除账户",
+                "confirmMessage": "此操作无法撤销。您的账户将在 12 小时后永久删除。所有数据将被丢弃。",
+                "typeConfirm": "输入 DELETE 以确认",
+                "typeConfirmHint": "准确输入 \"DELETE\" 以继续",
+                "password": "输入密码以确认",
+                "success": "账户将在 12 小时内被删除",
+                "successDetail": "您可以在期限内联系支持人员取消操作。",
+                "error": "删除账户失败"
+            }
+        }
+    },
+    "notifications": {
+        "title": "通知",
+        "description": "管理您接收 zSystems 通知的方式。",
+        "security": {
+            "title": "安全通知",
+            "description": "接收有关安全相关活动的电子邮件。",
+            "loginAlert": "登录警报",
+            "loginAlertHint": "当有新设备登录时发送电子邮件。",
+            "passwordChange": "密码修改",
+            "passwordChangeHint": "当您的密码修改时发送电子邮件。"
+        },
+        "activity": {
+            "title": "账户活动",
+            "description": "接收有关账户更改的电子邮件。",
+            "accountChanges": "账户更改",
+            "accountChangesHint": "当账户信息更新时发送电子邮件。"
+        },
+        "marketing": {
+            "title": "市场营销",
+            "description": "接收有关新闻及促销活动的电子邮件。",
+            "promotional": "促销电子邮件",
+            "promotionalHint": "接收来自 7-Mau 社区的新闻、事件及优惠信息。"
+        },
+        "saved": "通知首选项已保存",
+        "saveError": "保存首选项失败"
+    },
+    "profile": {
+        "title": "更新个人资料",
+        "description": "从 Discord 和 Steam 同步您的头像和显示名称。",
+        "updateButton": "更新个人资料",
+        "updating": "更新中...",
+        "success": "个人资料更新成功！",
+        "successDetail": "您的头像和显示名称已同步。",
+        "error": "更新个人资料失败",
+        "errorDetail": "请稍后再试。",
+        "discordSynced": "Discord 已同步",
+        "steamSynced": "Steam 已同步",
+        "hint": "点击下方按钮以从 Discord 和 Steam 获取最新头像和显示名称。"
+    }
+}

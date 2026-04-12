@@ -1,0 +1,92 @@
+{
+    "terms": {
+        "title": "服务条款协议",
+        "subtitle": "服务条款 · 最后更新：2026/01/03",
+        "scope": "适用于：7-mau.com 网站、所有子域名 *.7-mau.com、zSystems Web 仪表板以及 7-Mau 社区的所有 Counter-Strike 2 游戏服务器。",
+        "intro": "通过 Steam 登录网站或连接到任何 7-Mau 社区游戏服务器，即表示您自动确认已阅读、理解并无条件同意以下所有条款。如果您不同意，您唯一的权利是立即停止使用该服务。",
+        "section1": {
+            "title": "1. 账户与系统标识",
+            "steamAuthTitle": "Steam 身份验证",
+            "steamAuthContent": "我们的系统使用 Valve 的官方 API 进行 Steam OpenID 身份验证。我们不会要求或存储您的 Steam 密码。您有责任保证您的 Steam 账户的安全。",
+            "identityTitle": "用户标识",
+            "identityContent": "每个用户均通过 7ID（zSystems 的内部代码）、SteamID64 和 IP 地址进行标识。如果您的账户被他人用于违反 7-Mau 的规则，该账户仍将受到处罚，无一例外。"
+        },
+        "section2": {
+            "title": "2. 零容忍反作弊政策",
+            "corePolicy": "这是 7-Mau 社区的核心。我们对所有形式的作弊行为实行“零容忍”政策。",
+            "permBanTitle": "永久封禁",
+            "permBanContent": "使用干扰游戏的第三方软件（外挂、作弊、自瞄、透视、脚本、宏）将导致您的 SteamID 和 IP 被整个系统（Web 及游戏服务器）永久封禁。",
+            "demoTitle": "Demo 分析",
+            "demoContent": "我们的系统会自动存储并分析每场比赛的回放/Demo。7-Mau 的管理团队有全权使用这些数据做出封禁决定，而无需向违规者提供源代码证据或检测算法。",
+            "evasionTitle": "逃避封禁",
+            "evasionContent": "任何试图通过创建新账户（小号）来规避封禁的行为，都将导致系统自动封禁所有相关账户。"
+        },
+        "section3": {
+            "title": "3. 数据与网络滥用规则",
+            "ownershipTitle": "7-Mau 的所有权",
+            "ownershipContent": "*.7-mau.com 上所有经过处理的统计数据、排名（Rank/ELO）及展示结构均属于 7-Mau 社区的财产。",
+            "scrapingTitle": "反爬虫政策",
+            "scrapingContent": "禁止使用机器人、蜘蛛程序、爬虫或任何自动化工具从我们的网站批量提取数据。故意发送大量请求（API 垃圾邮件）从而影响仪表板性能的行为将被视为网络攻击 (DoS/DDoS)，并会立即在 Cloudflare/防火墙级别被拦截。"
+        },
+        "section4": {
+            "title": "4. VIP 福利与捐赠",
+            "donationNote": "所有针对 VIP 套餐、皮肤或游戏内特权的付款均被视为维护服务器的自愿捐赠。",
+            "noRefundTitle": "不予退款",
+            "noRefundContent": "我们不接受任何形式的退款，即使您因违反规则被系统封禁，或者服务器系统进行维护/关闭时也是如此。",
+            "vipRevoke": "如果发现滥用行为，管理团队保留随时更改、调整或撤销 VIP 特权的权利。"
+        },
+        "section5": {
+            "title": "5. 免责声明",
+            "availabilityTitle": "可用性",
+            "availabilityContent": "系统按“原样”运行。我们不保证游戏服务器或 Web 仪表板能够在 100% 的时间（正常运行时间）内无错误运行。",
+            "resetTitle": "数据重置",
+            "resetContent": "为确保平衡（例如新赛季），7-Mau 社区拥有全权在任何时候清除所有统计数据（统计信息、排名、积分），且不予任何补偿。"
+        }
+    },
+    "privacy": {
+        "title": "隐私与数据收集政策",
+        "subtitle": "隐私政策 · 最后更新：2026/01/03",
+        "intro": "Web 仪表板 zSystems（由 zhw1nq 和 7-Mau 团队开发）是一个庞大的数据处理引擎，旨在为 7-mau.com 上的 CS2 社区提供最详细的统计数据 (Stats)。以下是我们收集和运营该数据存储库的方式。",
+        "section1": {
+            "title": "1. 自动收集的系统数据",
+            "note": "当您连接到游戏服务器或登录 7-mau.com 时，我们的爬虫和插件会立即收集：",
+            "basicDataTitle": "基本身份数据",
+            "basicDataContent": "SteamID32、SteamID64、7ID（zSystems 上的内部代码）、当前显示名称、改名历史、头像 URL、Steam 个人资料链接。",
+            "steamStatusTitle": "Steam 账户状态",
+            "steamStatusContent": "通过 Steam Web API 自动检查 VAC 封禁、游戏封禁、交易封禁状态及 Steam 账户等级。",
+            "serverDataTitle": "服务器端数据",
+            "serverDataContent": "您的网络 IP 地址、Ping 值、国家/地区信息。",
+            "telemetryTitle": "游戏内数据（深度遥测数据）",
+            "telemetryContent": "您在服务器中的所有操作都会被记录。包括：移动坐标、K/D/A（击杀/死亡/助攻）历史、造成伤害、使用的武器、命中判定区域（爆头、胸部等）以及聊天记录数据（文本）。"
+        },
+        "section2": {
+            "title": "2. 统计数据的公开性质",
+            "note": "这是 Web 仪表板 zSystems 的核心基础。",
+            "publicData": "所有游戏内统计数据 (Stats)、排名、ELO、比赛历史，以及您在 7-Mau 服务器上的在线状态均属于公共数据。",
+            "publicAccess": "任何访问 *.7-mau.com 的用户都可以在我们的系统上搜索并查看您详细的玩家个人资料。",
+            "noPrivateProfile": "统计数据没有匿名例外：在我们的服务器上游玩，即表示您接受您的成就（及封禁历史）将在排行榜上公开显示。我们不支持在 Web 仪表板上“隐藏个人资料”（私人个人资料），以确保对社区的透明度。"
+        },
+        "section3": {
+            "title": "3. 封禁记录数据存储",
+            "banData": "有关违规账户（被封禁/被禁言/被限制文本）的数据，包括 7ID、SteamID、封禁原因、封禁时长以及违规时的显示名称，将永久并公开地存储在 zSystems 封禁名单中。",
+            "sharing": "系统可能会与其他 CS2 社区/合作伙伴共享这些封禁名单，以建立一个纯净的游戏环境。"
+        },
+        "section4": {
+            "title": "4. Cookie 及 Web 会话的使用",
+            "note": "7-mau.com Web 仪表板在您的浏览器上使用 Cookie 和本地存储来：",
+            "cookieLogin": "保持登录状态（保持登录）。",
+            "cookieUi": "存储界面首选项（深色模式/浅色模式、显示语言）。",
+            "cookieAnalytics": "通过分析工具（如 Google Analytics）追踪流量，以便管理团队评估网站性能。"
+        },
+        "section5": {
+            "title": "5. 内部数据保护",
+            "content": "虽然您的游戏内数据在仪表板上是公开的，但敏感的系统级信息，如：真实 IP 地址、交易历史（VIP 购买记录）及账户绑定历史（Discord/Steam）均已加密并受到严格保护。只有高级管理员 (Root Admin) 才有权访问原始数据库。"
+        },
+        "section6": {
+            "title": "6. 如何联系管理员",
+            "intro": "如遇任何与账户申诉、网站漏洞报告或条款相关的问题，请通过官方渠道直接与我们联系：",
+            "discordLabel": "支持门户 (Discord 票务)：",
+            "emailLabel": "管理员电子邮件："
+        }
+    }
+}

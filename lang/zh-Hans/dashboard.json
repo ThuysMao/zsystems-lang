@@ -1,0 +1,131 @@
+{
+    "title": "仪表板",
+    "subtitle": "服务器总览与管理",
+    "servers": {
+        "title": "服务器",
+        "count": "{count} 台服务器",
+        "allServers": "所有服务器",
+        "noServers": "此组中没有服务器"
+    },
+    "serverCard": {
+        "connect": "连接",
+        "noMap": "无地图",
+        "players": "{current}/{max} 名玩家",
+        "offline": "离线"
+    },
+    "serverDetail": {
+        "players": "玩家",
+        "noPlayers": "无玩家",
+        "teamCT": "反恐精英 (CT)",
+        "teamT": "恐怖分子 (T)",
+        "teamUnassigned": "未分配",
+        "serverInfo": "服务器信息",
+        "chat": "聊天",
+        "contextMenu": {
+            "viewSteamProfile": "查看 Steam 个人资料",
+            "copySteamId": "复制 SteamID",
+            "copyPlayerName": "复制玩家名称",
+            "copyStats": "复制统计数据"
+        },
+        "spectators": "旁观者",
+        "noSpectators": "无旁观者",
+        "copied": "已复制 {label}",
+        "unknown": "未知"
+    },
+    "stats": {
+        "totalServers": "服务器总数",
+        "playersOnline": "在线玩家",
+        "totalBans": "封禁总数",
+        "totalMutes": "禁言总数",
+        "kills": "击杀 (K)",
+        "deaths": "死亡 (D)",
+        "score": "得分"
+    },
+    "penalty": {
+        "title": "处罚",
+        "bans": "封禁",
+        "mutes": "禁言",
+        "records": "{count} 条记录",
+        "noRecords": "未找到记录",
+        "player": "玩家",
+        "status": "状态",
+        "type": "类型",
+        "reason": "原因",
+        "duration": "时长",
+        "timeLeft": "剩余时间",
+        "admin": "管理员",
+        "removeReason": "解除原因",
+        "dateTime": "日期 / 时间",
+        "statusActive": "生效中",
+        "statusExpired": "已过期",
+        "statusUnbanned": "已解封",
+        "permanent": "永久",
+        "expired": "已过期",
+        "viewAll": "查看全部",
+        "durationMinutes": "{value} 分钟",
+        "durationHours": "{value} 小时",
+        "durationDays": "{value} 天",
+        "page": "第 {page}/{total} 页",
+        "previous": "上一页",
+        "next": "下一页",
+        "ctx": {
+            "viewSteam": "查看 Steam 个人资料",
+            "comment": "评论",
+            "reban": "重新封禁",
+            "remute": "重新禁言",
+            "editBan": "编辑封禁",
+            "editMute": "编辑禁言",
+            "removeBan": "解除封禁",
+            "removeMute": "解除禁言",
+            "deleteBan": "删除封禁",
+            "deleteMute": "删除禁言"
+        }
+    },
+    "privilege": {
+        "title": "服务器特权",
+        "description": "升级您的账户以解锁专属饰品和优先访问权。选择适合您的等级。",
+        "discount": "节省",
+        "month1": "1 个月",
+        "months3": "3 个月",
+        "mostPopular": "最受欢迎",
+        "periodMonthly": "/ 31 天",
+        "periodQuarterly": "/ 90 天",
+        "currentPlan": "当前计划",
+        "tiers": {
+            "member": {
+                "name": "免费",
+                "priceMonthly": "免费",
+                "priceQuarterly": "免费",
+                "description": "基础体验",
+                "button": "立即游玩"
+            },
+            "svip": {
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "终极尊享",
+                "button": "升级"
+            },
+            "vip": {
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "进阶体验",
+                "button": "升级"
+            }
+        },
+        "features": {
+            "customSkins": "自定义匕首、手套、武器",
+            "createCollections": "创建皮肤合集",
+            "mvpPackFree": "使用免费 MVP 音乐包",
+            "publicServers": "加入社区服务器",
+            "prioritySlot": "优先进入服务器通道",
+            "fastSupport": "优先获得管理员支持",
+            "mvpPackVip": "解锁 VIP MVP 音乐包",
+            "customLoadout": "自定义装备配置",
+            "agentWibu3D": "专属 3D 二次元探员",
+            "weaponWibu3D": "顶级 3D 二次元武器",
+            "adminPrivileges": "最高管理员特权"
+        }
+    }
+}
