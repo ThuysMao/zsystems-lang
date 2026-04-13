@@ -1,35 +1,35 @@
 {
     "hero": {
-        "explore": "Explore",
-        "store": "Store",
-        "letsPlayNow": "Let's Play Now!",
-        "wantToBeVip": "Want to be a VIP?",
-        "loginToZsystems": "Login to zSystems",
-        "weaponSkins": "Weapon Skins",
-        "ranks": "Ranks",
-        "contact": "Contact",
-        "getDemo": "Get Demo",
+        "explore": "探索",
+        "store": "商店",
+        "letsPlayNow": "立即开始游玩！",
+        "wantToBeVip": "想成为 VIP 吗？",
+        "loginToZsystems": "登录 zSystems",
+        "weaponSkins": "武器皮肤",
+        "ranks": "排名",
+        "contact": "联系我们",
+        "getDemo": "获取演示",
         "subbrand": "zSYSTEMS-v2",
-        "playNow": "Play Now",
-        "login": "Login",
-        "joinVip": "Join VIP/SVIP Privileges"
+        "playNow": "立即游玩",
+        "login": "登录",
+        "joinVip": "加入 VIP/SVIP 特权"
     },
     "nav": {
-        "community": "Community",
-        "ranks": "Ranks",
-        "support": "Support"
+        "community": "社区",
+        "ranks": "排名",
+        "support": "支持"
     },
     "stats": {
-        "uptime": "UPTIME",
-        "ping": "PING",
-        "players6h": "PLAYERS / 6H"
+        "uptime": "正常运行时间",
+        "ping": "延迟 (PING)",
+        "players6h": "玩家数 / 6小时"
     },
     "footer": {
-        "selectLanguage": "Select language",
-        "language": "English",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Service",
-        "contact": "Contact",
-        "poweredBy": "Powered by zSystems — Developed by zhw1nq & 7-Mau TEAM"
+        "selectLanguage": "选择语言",
+        "language": "英文",
+        "privacy": "隐私政策",
+        "terms": "服务条款",
+        "contact": "联系我们",
+        "poweredBy": "由 zSystems 提供支持 — 由 zhw1nq & 7-Mau 团队开发"
     }
 }
