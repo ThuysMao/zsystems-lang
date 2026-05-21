@@ -11,6 +11,7 @@
         "logs": "Log",
         "settings": "Pengaturan"
     },
+    
     "stats": {
         "totalAdmins": "Total Admin",
         "totalServers": "Total Server",
