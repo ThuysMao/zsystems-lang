@@ -11,7 +11,6 @@
         "logs": "Log",
         "settings": "Pengaturan"
     },
-    
     "stats": {
         "totalAdmins": "Total Admin",
         "totalServers": "Total Server",
@@ -168,7 +167,8 @@
         "permanent": "Permanen",
         "active": "Aktif",
         "unbanned": "Blokir Dicabut",
-        "expired": "Kedaluwarsa"
+        "expired": "Kedaluwarsa",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "Daftar Mute",
@@ -194,7 +194,8 @@
         "silence": "SILENCE (Keduanya)",
         "active": "Aktif",
         "unmuted": "Mute Dicabut",
-        "expired": "Kedaluwarsa"
+        "expired": "Kedaluwarsa",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "Log Aktivitas",

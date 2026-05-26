@@ -18,7 +18,8 @@
         "login": "Entrar",
         "register": "Registrar",
         "logout": "Sair",
-        "support": "Suporte"
+        "support": "Suporte",
+        "matches": "Trận đấu"
     },
     "actions": {
         "copy": "Copiar",
@@ -96,6 +97,7 @@
         "greeting_afternoon": "Boa tarde, {name}",
         "greeting_evening": "Boa noite, {name}",
         "guest": "Convidado",
-        "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde"
+        "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde",
+        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
     }
 }

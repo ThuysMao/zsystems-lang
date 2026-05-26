@@ -18,7 +18,8 @@
         "login": "登入",
         "register": "註冊",
         "logout": "登出",
-        "support": "支援"
+        "support": "支援",
+        "matches": "Trận đấu"
     },
     "actions": {
         "copy": "複製",
@@ -96,6 +97,7 @@
         "greeting_afternoon": "下午好，{name}",
         "greeting_evening": "晚上好，{name}",
         "guest": "訪客",
-        "warning": "每日遊戲超過 180 分鐘可能影響健康"
+        "warning": "每日遊戲超過 180 分鐘可能影響健康",
+        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
     }
 }

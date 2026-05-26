@@ -167,7 +167,8 @@
         "permanent": "Permanente",
         "active": "Ativo",
         "unbanned": "Desbanido",
-        "expired": "Expirado"
+        "expired": "Expirado",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "Lista de Mutes",
@@ -193,7 +194,8 @@
         "silence": "SILENCE (Ambos)",
         "active": "Ativo",
         "unmuted": "Desmutado",
-        "expired": "Expirado"
+        "expired": "Expirado",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "Logs de Atividade",

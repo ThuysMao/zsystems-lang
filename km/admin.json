@@ -167,7 +167,8 @@
         "permanent": "អចិន្ត្រៃយ៍",
         "active": "សកម្ម",
         "unbanned": "បានដោះហាមឃាត់",
-        "expired": "ផុតកំណត់"
+        "expired": "ផុតកំណត់",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "បញ្ជី Mute",
@@ -193,7 +194,8 @@
         "silence": "SILENCE (ទាំងពីរ)",
         "active": "សកម្ម",
         "unmuted": "បានដោះ Mute",
-        "expired": "ផុតកំណត់"
+        "expired": "ផុតកំណត់",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "កំណត់ហេតុសកម្មភាព",

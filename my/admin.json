@@ -167,7 +167,8 @@
         "permanent": "အမြဲတမ်း",
         "active": "တက်ကြွ",
         "unbanned": "ပိတ်ပင် ဖြေလွှတ်",
-        "expired": "သက်တမ်းကုန်"
+        "expired": "သက်တမ်းကုန်",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "Mute စာရင်း",
@@ -193,7 +194,8 @@
         "silence": "SILENCE (နှစ်ခုလုံး)",
         "active": "တက်ကြွ",
         "unmuted": "Mute ဖြေလွှတ်",
-        "expired": "သက်တမ်းကုန်"
+        "expired": "သက်တမ်းကုန်",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "လုပ်ဆောင်ချက် မှတ်တမ်းများ",

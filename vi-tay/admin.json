@@ -167,7 +167,8 @@
         "permanent": "Mãi mãi",
         "active": "Tàng lồng",
         "unbanned": "Đạ pỏ ban",
-        "expired": "Đạ mết hạn"
+        "expired": "Đạ mết hạn",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "Danh sách Mute",
@@ -193,7 +194,8 @@
         "silence": "SILENCE (Cả slong)",
         "active": "Tàng lồng",
         "unmuted": "Đạ pỏ mute",
-        "expired": "Đạ mết hạn"
+        "expired": "Đạ mết hạn",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "Sổ ghi hoạt động",

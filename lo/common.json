@@ -18,7 +18,8 @@
         "login": "ເຂົ້າສູ່ລະບົບ",
         "register": "ລົງທະບຽນ",
         "logout": "ອອກຈາກລະບົບ",
-        "support": "ຊ່ວຍເຫຼືອ"
+        "support": "ຊ່ວຍເຫຼືອ",
+        "matches": "Trận đấu"
     },
     "actions": {
         "copy": "ສຳເນົາ",
@@ -96,6 +97,7 @@
         "greeting_afternoon": "ສະບາຍດີຕອນບ່າຍ, {name}",
         "greeting_evening": "ສະບາຍດີຕອນແລງ, {name}",
         "guest": "ແຂກ",
-        "warning": "ຫຼິ້ນເກມເກີນ 180 ນາທີ/ມື້ ອາດສົ່ງຜົນຕໍ່ສຸຂະພາບ"
+        "warning": "ຫຼິ້ນເກມເກີນ 180 ນາທີ/ມື້ ອາດສົ່ງຜົນຕໍ່ສຸຂະພາບ",
+        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
     }
 }

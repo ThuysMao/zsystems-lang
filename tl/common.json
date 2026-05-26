@@ -18,7 +18,8 @@
         "login": "Login",
         "register": "Magrehistro",
         "logout": "Mag-logout",
-        "support": "Suporta"
+        "support": "Suporta",
+        "matches": "Trận đấu"
     },
     "actions": {
         "copy": "Kopyahin",
@@ -96,6 +97,7 @@
         "greeting_afternoon": "Magandang hapon, {name}",
         "greeting_evening": "Magandang gabi, {name}",
         "guest": "Bisita",
-        "warning": "Ang paglalaro ng higit sa 180 minuto/araw ay maaaring makaapekto sa kalusugan"
+        "warning": "Ang paglalaro ng higit sa 180 minuto/araw ay maaaring makaapekto sa kalusugan",
+        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
     }
 }

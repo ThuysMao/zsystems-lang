@@ -18,7 +18,8 @@
         "login": "ចូល",
         "register": "ចុះឈ្មោះ",
         "logout": "ចេញ",
-        "support": "ជំនួយ"
+        "support": "ជំនួយ",
+        "matches": "Trận đấu"
     },
     "actions": {
         "copy": "ចម្លង",
@@ -96,6 +97,7 @@
         "greeting_afternoon": "រសៀលសួស្តី, {name}",
         "greeting_evening": "ល្ងាចសួស្តី, {name}",
         "guest": "ភ្ញៀវ",
-        "warning": "លេងហ្គេមលើស ១៨០ នាទី/ថ្ងៃ ប៉ះពាល់សុខភាព"
+        "warning": "លេងហ្គេមលើស ១៨០ នាទី/ថ្ងៃ ប៉ះពាល់សុខភាព",
+        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
     }
 }

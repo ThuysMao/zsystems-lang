@@ -167,7 +167,8 @@
         "permanent": "ຖາວອນ",
         "active": "ກຳລັງໃຊ້",
         "unbanned": "ຖອນແບນແລ້ວ",
-        "expired": "ໝົດອາຍຸ"
+        "expired": "ໝົດອາຍຸ",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "ລາຍການ Mute",
@@ -193,7 +194,8 @@
         "silence": "SILENCE (ທັງສອງ)",
         "active": "ກຳລັງໃຊ້",
         "unmuted": "ຖອນ Mute ແລ້ວ",
-        "expired": "ໝົດອາຍຸ"
+        "expired": "ໝົດອາຍຸ",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "ບັນທຶກກິດຈະກຳ",

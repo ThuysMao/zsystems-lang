@@ -167,7 +167,8 @@
         "permanent": "Kekal",
         "active": "Aktif",
         "unbanned": "Dibuka Sekatan",
-        "expired": "Tamat Tempoh"
+        "expired": "Tamat Tempoh",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "Senarai Senyap",
@@ -193,7 +194,8 @@
         "silence": "SILENCE (Kedua-duanya)",
         "active": "Aktif",
         "unmuted": "Dibuka Senyap",
-        "expired": "Tamat Tempoh"
+        "expired": "Tamat Tempoh",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "Log Aktiviti",

@@ -147,6 +147,7 @@
     "bans": {
         "title": "Ban List",
         "addBan": "Add Ban",
+        "addBanDescription": "Create a new ban restriction on the servers.",
         "playerName": "Player Name",
         "playerSteamId": "Player Steam ID",
         "playerIp": "Player IP",
@@ -172,6 +173,7 @@
     "mutes": {
         "title": "Mute List",
         "addMute": "Add Mute",
+        "addMuteDescription": "Create a new communication block (mute/gag) on the servers.",
         "playerName": "Player Name",
         "playerSteamId": "Player Steam ID",
         "adminName": "Admin",

@@ -167,7 +167,8 @@
         "permanent": "永久",
         "active": "生效中",
         "unbanned": "已解除封禁",
-        "expired": "已过期"
+        "expired": "已过期",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "禁言列表",
@@ -193,7 +194,8 @@
         "silence": "SILENCE（全部）",
         "active": "生效中",
         "unmuted": "已解除禁言",
-        "expired": "已过期"
+        "expired": "已过期",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "活动日志",

@@ -144,7 +144,6 @@
         "noRcon": "尚未設定 RCON",
         "cannotDelete": "無法刪除已綁定管理員的伺服器"
     },
-
     "bans": {
         "title": "封禁列表",
         "addBan": "新增封禁",
@@ -168,7 +167,8 @@
         "permanent": "永久",
         "active": "有效",
         "unbanned": "已解除封禁",
-        "expired": "已過期"
+        "expired": "已過期",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "禁言列表",
@@ -194,7 +194,8 @@
         "silence": "SILENCE（全部）",
         "active": "有效",
         "unmuted": "已解除禁言",
-        "expired": "已過期"
+        "expired": "已過期",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "活動日誌",

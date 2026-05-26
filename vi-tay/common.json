@@ -18,7 +18,8 @@
         "login": "Đăng nhập",
         "register": "Đăng ký",
         "logout": "Ók mạng",
-        "support": "Giúp đỡ"
+        "support": "Giúp đỡ",
+        "matches": "Trận đấu"
     },
     "actions": {
         "copy": "Chép lặp",
@@ -96,6 +97,7 @@
         "greeting_afternoon": "Chào lăng vằn, {name}",
         "greeting_evening": "Chào vằn hăm, {name}",
         "guest": "Khách",
-        "warning": "Lỉn game quá 180 phút/vằn hại thâng sức khỏe"
+        "warning": "Lỉn game quá 180 phút/vằn hại thâng sức khỏe",
+        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
     }
 }

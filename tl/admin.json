@@ -167,7 +167,8 @@
         "permanent": "Permanente",
         "active": "Aktibo",
         "unbanned": "Na-unban",
-        "expired": "Expired"
+        "expired": "Expired",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "Listahan ng Mute",
@@ -193,7 +194,8 @@
         "silence": "SILENCE (Pareho)",
         "active": "Aktibo",
         "unmuted": "Na-unmute",
-        "expired": "Expired"
+        "expired": "Expired",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "Mga Log ng Aktibidad",
@@ -381,6 +383,102 @@
             "deletedAt": "Binura",
             "lockedUntil": "Naka-lock hanggang",
             "failedAttempts": "Nabigong attempts"
+        },
+        "sessions": {
+            "device": "Thiết bị",
+            "ip": "Địa chỉ IP",
+            "lastActive": "Hoạt động cuối",
+            "revoke": "Thu hồi",
+            "revokeAll": "Đăng xuất tất cả",
+            "noSessions": "Không có phiên đang hoạt động",
+            "revokeConfirm": "Thu hồi phiên này?",
+            "revokeAllConfirm": "Đăng xuất tất cả phiên của người dùng này?"
+        },
+        "logs": {
+            "event": "Sự kiện",
+            "ip": "IP",
+            "time": "Thời gian",
+            "details": "Chi tiết",
+            "noLogs": "Chưa có nhật ký",
+            "loadMore": "Tải thêm"
+        },
+        "actions": {
+            "suspend": "Đình chỉ",
+            "ban": "Cấm",
+            "reactivate": "Kích hoạt lại",
+            "delete": "Xóa tài khoản",
+            "restore": "Khôi phục",
+            "forceLogout": "Đăng xuất",
+            "forcePasswordReset": "Reset mật khẩu",
+            "disable2fa": "Tắt 2FA",
+            "disablePasskey": "Tắt Passkey",
+            "unlock": "Mở khóa",
+            "unlinkDiscord": "Hủy liên kết Discord",
+            "unlinkSteam": "Hủy liên kết Steam",
+            "resendVerification": "Gửi lại email xác minh",
+            "editProfile": "Sửa hồ sơ",
+            "reasonPlaceholder": "Nhập lý do...",
+            "reasonRequired": "Cần nhập lý do",
+            "durationDays": "Thời hạn (ngày)",
+            "durationPermanent": "Vĩnh viễn",
+            "confirmTitle": "Xác nhận hành động",
+            "confirmSuspend": "Đình chỉ tài khoản này? Người dùng sẽ bị đăng xuất và không thể đăng nhập.",
+            "confirmBan": "Cấm tài khoản này? Người dùng sẽ bị đăng xuất và không thể đăng nhập.",
+            "confirmDelete": "Xóa tài khoản này? Tài khoản sẽ bị ẩn nhưng có thể khôi phục.",
+            "confirmForceLogout": "Đăng xuất tất cả phiên của người dùng này?",
+            "confirmPasswordReset": "Reset mật khẩu? Người dùng sẽ bị đăng xuất và phải đặt lại mật khẩu.",
+            "confirmDisable2fa": "Tắt xác thực 2 bước cho người dùng này?",
+            "confirmDisablePasskey": "Tắt và xóa tất cả Passkey của người dùng này?",
+            "confirmUnlinkDiscord": "Hủy liên kết Discord? Người dùng có thể mất khả năng khôi phục tài khoản.",
+            "confirmUnlinkSteam": "Hủy liên kết Steam? Người dùng có thể mất khả năng khôi phục tài khoản.",
+            "displayName": "Tên hiển thị",
+            "email": "Email"
+        },
+        "toast": {
+            "actionSuccess": "Thực hiện thành công",
+            "actionFailed": "Thực hiện thất bại"
+        },
+        "editProfile": {
+            "emailWarning": "Thay đổi email sẽ reset trạng thái xác minh",
+            "usernameWarning": "Đổi username ảnh hưởng đến đăng nhập",
+            "adminNote": "Ghi chú nội bộ (admin)",
+            "notePlaceholder": "Ghi chú về tài khoản này...",
+            "cancel": "Hủy",
+            "save": "Lưu thay đổi",
+            "confirm": "Xác nhận",
+            "username": "Tên người dùng",
+            "sectionIdentity": "Danh tính",
+            "sectionContact": "Liên lạc",
+            "sectionSettings": "Cài đặt",
+            "sectionAvatar": "Ảnh đại diện",
+            "locale": "Ngôn ngữ",
+            "status": "Trạng thái",
+            "emailVerified": "Email đã xác minh",
+            "emailVerifiedDesc": "Bật/tắt trạng thái xác minh thủ công",
+            "avatarHint": "URL ảnh đại diện (để trống sẽ dùng chữ cái đầu)",
+            "changesSummary": "{count} thay đổi sẽ được lưu"
+        },
+        "banSuspend": {
+            "title": "Đình chỉ / Cấm",
+            "suspendTitle": "Đình chỉ tài khoản",
+            "banTitle": "Cấm tài khoản",
+            "temporary": "Đình chỉ tạm thời",
+            "permanent": "Cấm vĩnh viễn",
+            "duration": "Thời hạn",
+            "days": "ngày",
+            "reason": "Lý do",
+            "revokeSessions": "Đăng xuất tất cả phiên ngay",
+            "notifyEmail": "Gửi email thông báo cho người dùng"
+        },
+        "passwordReset": {
+            "title": "Ép đổi mật khẩu",
+            "method": "Phương thức",
+            "forceTitle": "Ép đổi khi đăng nhập lần tới",
+            "forceDesc": "User sẽ phải đặt mật khẩu mới ngay khi login",
+            "emailTitle": "Gửi email reset password",
+            "emailDesc": "User nhận link qua email, tự đổi",
+            "reason": "Lý do (tùy chọn)",
+            "reasonPlaceholder": "Phát hiện bảo mật bất thường..."
         }
     }
 }

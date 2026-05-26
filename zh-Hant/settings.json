@@ -232,7 +232,27 @@
         "title": "通知",
         "description": "管理您接收 zSystems 通知的方式。",
         "saved": "通知偏好已儲存",
-        "saveError": "儲存偏好失敗"
+        "saveError": "儲存偏好失敗",
+        "security": {
+            "title": "Thông báo bảo mật",
+            "description": "Nhận email khi có hoạt động bảo mật trên tài khoản.",
+            "loginAlert": "Cảnh báo đăng nhập",
+            "loginAlertHint": "Email khi có đăng nhập từ thiết bị mới.",
+            "passwordChange": "Thay đổi mật khẩu",
+            "passwordChangeHint": "Email khi mật khẩu được thay đổi."
+        },
+        "activity": {
+            "title": "Hoạt động tài khoản",
+            "description": "Nhận email về các thay đổi trên tài khoản.",
+            "accountChanges": "Thay đổi tài khoản",
+            "accountChangesHint": "Email khi thông tin tài khoản được cập nhật."
+        },
+        "marketing": {
+            "title": "Tiếp thị",
+            "description": "Nhận email về tin tức và khuyến mãi.",
+            "promotional": "Email quảng cáo",
+            "promotionalHint": "Nhận tin tức, sự kiện và ưu đãi từ 7-Mau Community."
+        }
     },
     "profile": {
         "title": "更新個人資料",

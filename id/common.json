@@ -18,7 +18,8 @@
         "login": "Masuk",
         "register": "Daftar",
         "logout": "Keluar",
-        "support": "Dukungan"
+        "support": "Dukungan",
+        "matches": "Trận đấu"
     },
     "actions": {
         "copy": "Salin",
@@ -96,6 +97,7 @@
         "greeting_afternoon": "Selamat sore, {name}",
         "greeting_evening": "Selamat malam, {name}",
         "guest": "Tamu",
-        "warning": "Bermain game lebih dari 180 menit/hari berdampak pada kesehatan"
+        "warning": "Bermain game lebih dari 180 menit/hari berdampak pada kesehatan",
+        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
     }
 }

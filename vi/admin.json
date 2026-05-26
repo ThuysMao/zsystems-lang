@@ -147,6 +147,7 @@
     "bans": {
         "title": "Danh sách Ban",
         "addBan": "Thêm Ban",
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ.",
         "playerName": "Tên người chơi",
         "playerSteamId": "Steam ID người chơi",
         "playerIp": "IP người chơi",
@@ -172,6 +173,7 @@
     "mutes": {
         "title": "Danh sách Mute",
         "addMute": "Thêm Mute",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ.",
         "playerName": "Tên người chơi",
         "playerSteamId": "Steam ID người chơi",
         "adminName": "Admin",

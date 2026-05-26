@@ -18,7 +18,8 @@
         "login": "ဝင်ရောက်ရန်",
         "register": "စာရင်းသွင်းရန်",
         "logout": "ထွက်ရန်",
-        "support": "အကူအညီ"
+        "support": "အကူအညီ",
+        "matches": "Trận đấu"
     },
     "actions": {
         "copy": "ကူးယူ",
@@ -96,6 +97,7 @@
         "greeting_afternoon": "နေ့ခင်းပါ၊ {name}",
         "greeting_evening": "ညနေခင်းပါ၊ {name}",
         "guest": "ဧည့်သည်",
-        "warning": "တစ်နေ့ ၁၈၀ မိနစ်ထက်ပို၍ ဂိမ်းကစားခြင်းသည် ကျန်းမာရေးကို ထိခိုက်စေနိုင်သည်"
+        "warning": "တစ်နေ့ ၁၈၀ မိနစ်ထက်ပို၍ ဂိမ်းကစားခြင်းသည် ကျန်းမာရေးကို ထိခိုက်စေနိုင်သည်",
+        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
     }
 }

@@ -25,14 +25,82 @@
         "players6h": "PLAYERS / 6H"
     },
     "footer": {
-        "selectLanguage": "Select language",
         "language": "English",
+        "authLogin": "Login",
+        "authRegister": "Register",
+        "authAccount": "Account",
         "privacy": "Privacy Policy",
         "terms": "Terms of Service",
         "contact": "Contact",
-        "poweredBy": "Powered by zSystems — Developed by zhw1nq & 7-Mau TEAM"
+        "brandDescription": "The largest CS2 community in Vietnam. Highly stable, high-performance servers with extremely low latency.",
+        "navigation": "Navigation",
+        "servers": "Servers",
+        "support": "Support",
+        "serverTip": "Open CS2 console, type connect [IP] to join",
+        "copyConnect": "Click to copy connect command",
+        "dmca": "Copyright & DMCA Protected: zSystems and 7-Mau Community respect intellectual property rights. Counter-Strike 2 is a registered trademark of Valve Corporation.",
+        "quickLinks": {
+            "leaderboard": "Leaderboard",
+            "stats": "Personal Stats",
+            "matches": "Match History",
+            "register": "Register Account",
+            "guide": "How to Join",
+            "configs": "Download Configs"
+        },
+        "supportLinks": {
+            "terms": "Terms of Service",
+            "privacy": "Privacy Policy",
+            "rules": "Community Rules",
+            "report": "Report Abuse",
+            "contact": "Contact Support",
+            "faq": "FAQ"
+        }
     },
     "character": {
         "name": "7-CHAN"
+    },
+    "preloader": {
+        "restricted18": "Restricted 18+",
+        "warningInitial": "Playing games for more than 180 minutes a day will adversely affect your health.",
+        "warningFun": "Have fun playing games at 7-mau.com!",
+        "warningStuck": "If the loading screen is stuck or takes too long, please reload the page.",
+        "loading": "LOADING"
+    },
+    "zsystems": {
+        "title": "zSystems",
+        "subtitle": "zSystems System Architecture",
+        "backHome": "BACK TO HOME",
+        "heroTag": "zSystems & vhming Core Platform",
+        "description": "zSystems and vhming are the ultimate advanced management system and user dashboard designed as an All-In-One (AIO) solution, delivering seamless operation, outstanding performance, and real-time database management.",
+        "legalTitle": "System Info & Legal Protection",
+        "features": {
+            "engineTitle": "High-Performance Engine",
+            "engineDesc": "Powered by next-gen processing modules offering sub-millisecond thread execution and robust performance handling.",
+            "cacheTitle": "Centralized L2 Cache Layer",
+            "cacheDesc": "Persisted and synchronization via high-performance Redis cache clusters to serve massive user pools instantly.",
+            "architectureTitle": "Cinematic System Architecture",
+            "architectureDesc": "Robust protection against cyber threats, secure link protocols, and automated session checks built right into the core.",
+            "pipelineTitle": "Ultra-Low Latency Pipelines",
+            "pipelineDesc": "Optimized pipeline execution designed exclusively for high-demand gaming communities and multiplayer systems."
+        },
+        "owner": {
+            "label": "SYSTEM OWNER",
+            "name": "luxiie",
+            "desc": "Legal representative, founder, and official copyright owner of the zSystems platform.",
+            "linkText": "Visit luxiie"
+        },
+        "developer": {
+            "label": "LEAD PROGRAMMER",
+            "name": "vhming",
+            "desc": "Lead developer and chief architect building and operating the zSystems platform.",
+            "linkText": "Visit vhming.com"
+        },
+        "dmca": {
+            "label": "COPYRIGHT PROTECTION",
+            "name": "DMCA Protected",
+            "desc": "All content, design assets, and source code are digitally protected worldwide.",
+            "linkText": "Verify DMCA"
+        },
+        "footerText": "Created by vhming with absolute excellence."
     }
 }
