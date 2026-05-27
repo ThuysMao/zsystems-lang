@@ -7,7 +7,7 @@
         "allServers": "ម៉ាស៊ីនមេទាំងអស់",
         "noServers": "មិនមានម៉ាស៊ីនមេក្នុងក្រុមនេះ"
     },
-    "serverCard": {
+    "serverCard": { 
         "connect": "ភ្ជាប់",
         "noMap": "គ្មានផែនទី",
         "players": "{current}/{max} អ្នកលេង",
