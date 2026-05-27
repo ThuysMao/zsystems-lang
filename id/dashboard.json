@@ -6,7 +6,7 @@
         "count": "{count} server",
         "allServers": "Semua server",
         "noServers": "Tidak ada server di grup ini"
-    },
+    }, 
     "serverCard": {
         "connect": "Hubungkan",
         "noMap": "Tidak ada peta",
