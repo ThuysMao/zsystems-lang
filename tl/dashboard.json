@@ -14,7 +14,7 @@
         "offline": "Offline",
         "noInfo": "Walang magagamit na impormasyon ng server."
     },
-    "serverDetail": {
+    "serverDetail": { 
         "players": "Mga Manlalaro",
         "noPlayers": "Walang manlalaro",
         "teamCT": "Counter-Terrorists",
