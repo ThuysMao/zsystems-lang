@@ -319,6 +319,7 @@
             "commandFailed": "发送命令失败"
         }
     },
+    
     "accounts": {
         "title": "账户管理",
         "subtitle": "管理所有 zSystems 用户账户",
