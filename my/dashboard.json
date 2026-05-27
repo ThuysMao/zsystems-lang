@@ -8,7 +8,7 @@
         "noServers": "ဤအုပ်စုတွင် ဆာဗာ မရှိပါ"
     },
     "serverCard": {
-        "connect": "ချိတ်ဆက်",
+        "connect": "ချိတ်ဆက်", 
         "noMap": "မြေပုံ မရှိ",
         "players": "ကစားသမား {current}/{max}",
         "offline": "အော့ဖ်လိုင်း",
