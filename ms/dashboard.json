@@ -10,7 +10,7 @@
     "serverCard": {
         "connect": "Sambung",
         "noMap": "Tiada peta",
-        "players": "{current}/{max} Pemain",
+        "players": "{current}/{max} Pemain", 
         "offline": "Luar Talian",
         "noInfo": "Tiada maklumat pelayan tersedia."
     },
