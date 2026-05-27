@@ -8,7 +8,7 @@
         "noServers": "ບໍ່ມີເຊີບເວີໃນກຸ່ມນີ້"
     },
     "serverCard": {
-        "connect": "ເຊື່ອມຕໍ່",
+        "connect": "ເຊື່ອມຕໍ່", 
         "noMap": "ບໍ່ມີແຜນທີ່",
         "players": "{current}/{max} ຜູ້ຫຼິ້ນ",
         "offline": "ອອບລາຍ",
