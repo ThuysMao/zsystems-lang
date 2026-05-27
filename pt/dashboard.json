@@ -10,7 +10,7 @@
     "serverCard": {
         "connect": "Conectar",
         "noMap": "Sem mapa",
-        "players": "{current}/{max} Jogadores",
+        "players": "{current}/{max} Jogadores",  
         "offline": "Offline",
         "noInfo": "Nenhuma informação do servidor disponível."
     },

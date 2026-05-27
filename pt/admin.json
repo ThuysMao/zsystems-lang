@@ -6,8 +6,8 @@
         "admins": "Gerenciar Administradores",
         "accounts": "Gerenciamento de Contas",
         "servers": "Gerenciar Servidores",
-        "bans": "Gerenciar Banimentos",
-        "mutes": "Gerenciar Mutes",
+        "bans": "Gerenciar Banimentos", 
+        "mutes": "Gerenciar Mutes", 
         "logs": "Logs",
         "settings": "Configurações"
     },
