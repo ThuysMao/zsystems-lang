@@ -223,7 +223,8 @@
                 "typeConfirmHint": "พิมพ์ \"DELETE\" ให้ถูกต้อง",
                 "password": "กรอกรหัสผ่าน",
                 "success": "บัญชีจะถูกลบใน 12 ชั่วโมง",
-                "error": "ลบไม่สำเร็จ"
+                "error": "ลบไม่สำเร็จ",
+                "successDetail": "Bạn có thể hủy bằng cách liên hệ hỗ trợ trước thời hạn."
             }
         }
     },
@@ -261,6 +262,9 @@
         "success": "อัปเดตสำเร็จ!",
         "successDetail": "ซิงค์ข้อมูลแล้ว",
         "error": "อัปเดตไม่สำเร็จ",
-        "errorDetail": "กรุณาลองใหม่"
+        "errorDetail": "กรุณาลองใหม่",
+        "discordSynced": "Discord đã đồng bộ",
+        "steamSynced": "Steam đã đồng bộ",
+        "hint": "Nhấn nút bên dưới để cập nhật avatar và tên hiển thị mới nhất từ Discord và Steam."
     }
-} 
+}
