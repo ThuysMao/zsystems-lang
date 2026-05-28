@@ -8,7 +8,7 @@
         "servers": "ເຊີບເວີ",
         "bans": "ແບນ",
         "mutes": "Mute / Gag",
-        "skins": "ສະກິນ", 
+        "skins": "ສະກິນ",
         "skinCollections": "ຄໍເລັກຊັນ",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
@@ -99,5 +99,6 @@
         "guest": "ແຂກ",
         "warning": "ຫຼິ້ນເກມເກີນ 180 ນາທີ/ມື້ ອາດສົ່ງຜົນຕໍ່ສຸຂະພາບ",
         "loadingWarning": "ຫຼິ້ນເກມເກີນ 180 ນາທີຕໍ່ມື້ ອາດສົ່ງຜົນກະທົບຕໍ່ສຸຂະພາບ."
-    }
+    },
+    "optional": "Tùy chọn"
 }

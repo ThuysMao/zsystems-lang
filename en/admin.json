@@ -168,7 +168,8 @@
         "permanent": "Permanent",
         "active": "Active",
         "unbanned": "Unbanned",
-        "expired": "Expired"
+        "expired": "Expired",
+        "noBans": "No bans found"
     },
     "mutes": {
         "title": "Mute List",
@@ -195,7 +196,8 @@
         "silence": "SILENCE (Both)",
         "active": "Active",
         "unmuted": "Unmuted",
-        "expired": "Expired"
+        "expired": "Expired",
+        "noMutes": "No mutes found"
     },
     "logs": {
         "title": "Activity Logs",

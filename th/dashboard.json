@@ -101,7 +101,12 @@
         "success": "ดำเนินการ {action} กับ {player} สำเร็จ",
         "failed": "การดำเนินการล้มเหลว",
         "socialLink": "ลิงก์โซเชียล",
-        "statsChecker": "ตรวจสอบสถิติ"
+        "statsChecker": "ตรวจสอบสถิติ",
+        "noSteamInfo": "Chưa nhập thông tin SteamID",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
+        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
+        "selectDuration": "Chọn thời hạn",
+        "selectReason": "Chọn lý do"
     },
     "privilege": {
         "title": "สิทธิพิเศษเซิร์ฟเวอร์",
@@ -270,7 +275,7 @@
             "defuser": "ชุดกู้ระเบิด",
             "grenades": "ระเบิด",
             "fullBuy": "ซื้อเต็ม",
-            "forceBuy": "ซื้อบังคับ", 
+            "forceBuy": "ซื้อบังคับ",
             "eco": "ประหยัด",
             "pistol": "ปืนพก"
         }

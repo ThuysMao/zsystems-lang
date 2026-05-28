@@ -21,5 +21,9 @@
     "saveStopTip": "Lưu điểm màu vào Bảng màu",
     "deleteStopTip": "Xóa điểm màu đã chọn",
     "pipetteTip": "Dùng ống hút để lấy màu trên màn hình",
-    "saveToPresetsTip": "Nhấp để lưu vào bảng màu tùy chỉnh!"
+    "saveToPresetsTip": "Nhấp để lưu vào bảng màu tùy chỉnh!",
+    "monochromatic": "Đơn sắc",
+    "analogous": "Tương đồng",
+    "complementary": "Bổ túc",
+    "triadic": "Tam hợp"
 }
