@@ -21,5 +21,9 @@
     "saveStopTip": "រក្សាទុកចំណុចពណ៌ទៅក្ដារពណ៌",
     "deleteStopTip": "លុបចំណុចពណ៌ដែលបានជ្រើស",
     "pipetteTip": "ប្រើឧបករណ៍ចាប់ពណ៌ដើម្បីយកពណ៌ពីអេក្រង់",
-    "saveToPresetsTip": "ចុចដើម្បីរក្សាទុកទៅក្ដារពណ៌ផ្ទាល់ខ្លួន!"
-  }
+    "saveToPresetsTip": "ចុចដើម្បីរក្សាទុកទៅក្ដារពណ៌ផ្ទាល់ខ្លួន!",
+    "monochromatic": "Đơn sắc",
+    "analogous": "Tương đồng",
+    "complementary": "Bổ túc",
+    "triadic": "Tam hợp"
+}

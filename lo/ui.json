@@ -21,5 +21,9 @@
     "saveStopTip": "ບັນທຶກຈຸດສີເຂົ້າໃນຈານສີ",
     "deleteStopTip": "ລຶບຈຸດສີທີ່ເລືອກ",
     "pipetteTip": "ໃຊ້ເຄື່ອງດູດສີເພື່ອເອົາສີຈາກໜ້າຈໍ",
-    "saveToPresetsTip": "ຄລິກເພື່ອບັນທຶກເຂົ້າໃນຈານສີກຳນົດເອງ!"
-  }
+    "saveToPresetsTip": "ຄລິກເພື່ອບັນທຶກເຂົ້າໃນຈານສີກຳນົດເອງ!",
+    "monochromatic": "Đơn sắc",
+    "analogous": "Tương đồng",
+    "complementary": "Bổ túc",
+    "triadic": "Tam hợp"
+}

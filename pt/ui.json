@@ -21,5 +21,9 @@
     "saveStopTip": "Salvar ponto de cor na paleta",
     "deleteStopTip": "Excluir ponto de cor selecionado",
     "pipetteTip": "Use o conta-gotas para capturar uma cor da tela",
-    "saveToPresetsTip": "Clique para salvar na paleta personalizada!"
-  }
+    "saveToPresetsTip": "Clique para salvar na paleta personalizada!",
+    "monochromatic": "Đơn sắc",
+    "analogous": "Tương đồng",
+    "complementary": "Bổ túc",
+    "triadic": "Tam hợp"
+}

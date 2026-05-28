@@ -76,16 +76,27 @@
         "terroristHours": "T 阵营时长",
         "ctHours": "CT 阵营时长",
         "spectatorHours": "观战时长",
-        "close": "关闭"
+        "close": "关闭",
+        "subtitle": "Thống kê chi tiết trên từng máy chủ",
+        "back": "Quay lại",
+        "dominationKills": "Domination",
+        "ctRounds": "Vòng CT",
+        "tRounds": "Vòng T",
+        "weaponName": "Vũ khí",
+        "weaponKills": "Kills",
+        "weaponHS": "HS",
+        "weaponHSR": "HS%",
+        "weaponAccuracy": "Độ chính xác"
     },
     "context": {
         "label": "玩家",
         "viewProfile": "查看资料",
         "openSteam": "打开 Steam 资料",
         "copySteamId": "复制 Steam ID",
-        "copied": "已复制！"
+        "copied": "已复制！",
+        "verifiedStaff": "Trang cá nhân chính thức: zSystems đã xác nhận rằng đây là tài khoản của Ban quản trị / Nhân sự chính thức thuộc hệ thống Cộng đồng 7-Màu.",
+        "verifiedUser": "Tài khoản đã xác minh: zSystems đã xác nhận tài khoản này là chính chủ, đã liên kết tài khoản Steam và xác minh địa chỉ Email thành công."
     },
-    
     "aiWarning": {
         "title": "此页面由 AI Claude Opus 4.7 生成",
         "desc1": "由于 AI 性能极差，如果你遇到卡顿，请启用硬件加速。避免打开 F12，否则网页可能会卡死并需要重启，请注意。",

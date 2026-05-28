@@ -4,7 +4,7 @@
     "tabs": {
         "statistics": "Statistik",
         "admins": "Urus Admin",
-        "accounts": "Pengurusan Akaun", 
+        "accounts": "Pengurusan Akaun",
         "servers": "Urus Pelayan",
         "bans": "Urus Sekatan",
         "mutes": "Urus Senyap",
@@ -168,7 +168,8 @@
         "active": "Aktif",
         "unbanned": "Dibuka Sekatan",
         "expired": "Tamat Tempoh",
-        "addBanDescription": "Tambah larangan bermain (ban) baharu pada sistem pelayan."
+        "addBanDescription": "Tambah larangan bermain (ban) baharu pada sistem pelayan.",
+        "noBans": "Chưa có lượt ban nào"
     },
     "mutes": {
         "title": "Senarai Senyap",
@@ -195,7 +196,8 @@
         "active": "Aktif",
         "unmuted": "Dibuka Senyap",
         "expired": "Tamat Tempoh",
-        "addMuteDescription": "Tambah larangan sembang/mikrofon (mute) baharu pada sistem pelayan."
+        "addMuteDescription": "Tambah larangan sembang/mikrofon (mute) baharu pada sistem pelayan.",
+        "noMutes": "Chưa có lượt mute nào"
     },
     "logs": {
         "title": "Log Aktiviti",

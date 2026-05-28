@@ -34,7 +34,6 @@
         "retry": "重试",
         "search": "搜索..."
     },
-    
     "status": {
         "online": "在线",
         "offline": "离线",
@@ -100,5 +99,6 @@
         "guest": "访客",
         "warning": "每天游戏超过 180 分钟会影响健康",
         "loadingWarning": "每天玩游戏超过180分钟会影响健康."
-    }
+    },
+    "optional": "Tùy chọn"
 }

@@ -14,7 +14,7 @@
         "offline": "Offline",
         "noInfo": "Walang magagamit na impormasyon ng server."
     },
-    "serverDetail": { 
+    "serverDetail": {
         "players": "Mga Manlalaro",
         "noPlayers": "Walang manlalaro",
         "teamCT": "Counter-Terrorists",
@@ -101,7 +101,12 @@
         "success": "Matagumpay na naisagawa ang {action} kay {player}",
         "failed": "Nabigo ang aksyon",
         "socialLink": "SOCIAL LINK",
-        "statsChecker": "STATS CHECKER"
+        "statsChecker": "STATS CHECKER",
+        "noSteamInfo": "Chưa nhập thông tin SteamID",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
+        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
+        "selectDuration": "Chọn thời hạn",
+        "selectReason": "Chọn lý do"
     },
     "privilege": {
         "title": "Mga Pribilehiyo ng Server",

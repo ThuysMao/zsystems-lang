@@ -21,5 +21,9 @@
     "saveStopTip": "အရောင်အမှတ်ကို ပလက်ထဲသို့ သိမ်းပါ",
     "deleteStopTip": "ရွေးထားသော အရောင်အမှတ်ကို ဖျက်ပါ",
     "pipetteTip": "မျက်နှာပြင်မှ အရောင်ယူရန် pipette ကို သုံးပါ",
-    "saveToPresetsTip": "စိတ်ကြိုက်ပလက်ထဲသို့ သိမ်းရန် နှိပ်ပါ!"
-  }
+    "saveToPresetsTip": "စိတ်ကြိုက်ပလက်ထဲသို့ သိမ်းရန် နှိပ်ပါ!",
+    "monochromatic": "Đơn sắc",
+    "analogous": "Tương đồng",
+    "complementary": "Bổ túc",
+    "triadic": "Tam hợp"
+}

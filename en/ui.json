@@ -21,5 +21,9 @@
   "saveStopTip": "Save stop color to Presets",
   "deleteStopTip": "Delete selected gradient stop",
   "pipetteTip": "Use Pipette to sample color from screen",
-  "saveToPresetsTip": "Click to save to custom Presets!"
+  "saveToPresetsTip": "Click to save to custom Presets!",
+  "monochromatic": "Monochromatic",
+  "analogous": "Analogous",
+  "complementary": "Complementary",
+  "triadic": "Triadic"
 }

@@ -21,5 +21,9 @@
     "saveStopTip": "Simpan titik warna ke palet",
     "deleteStopTip": "Padam titik warna yang dipilih",
     "pipetteTip": "Gunakan pipet untuk mengambil warna pada skrin",
-    "saveToPresetsTip": "Klik untuk simpan ke palet tersuai!"
-  }
+    "saveToPresetsTip": "Klik untuk simpan ke palet tersuai!",
+    "monochromatic": "Đơn sắc",
+    "analogous": "Tương đồng",
+    "complementary": "Bổ túc",
+    "triadic": "Tam hợp"
+}
