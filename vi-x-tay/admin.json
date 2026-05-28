@@ -169,7 +169,8 @@
         "unbanned": "Đạ pỏ ban",
         "expired": "Đạ mết hạn",
         "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ.",
-        "noMutes": "Boóc mị lượt ban nào"
+        "noMutes": "Boóc mị lượt ban nào",
+        "noBans": "Chưa có lượt ban nào"
     },
     "mutes": {
         "title": "Danh sách Mute",

@@ -19,7 +19,8 @@
         "register": "Đăng ký",
         "logout": "Ók mạng",
         "support": "Giúp đỡ",
-        "matches": "Trận đấu"
+        "matches": "Trận đấu",
+        "rules": "Hướng dẫn"
     },
     "actions": {
         "copy": "Chép lặp",

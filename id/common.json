@@ -19,7 +19,8 @@
         "register": "Daftar",
         "logout": "Keluar",
         "support": "Dukungan",
-        "matches": "Pertandingan"
+        "matches": "Pertandingan",
+        "rules": "Panduan"
     },
     "actions": {
         "copy": "Salin",
