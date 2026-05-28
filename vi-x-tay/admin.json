@@ -10,7 +10,7 @@
         "mutes": "Quản lý Mute",
         "logs": "Sổ ghi lặp",
         "settings": "Sắp đặt"
-    },
+    }, 
     "stats": {
         "totalAdmins": "Tàng thảy Admin",
         "totalServers": "Tàng thảy Server",
@@ -168,8 +168,7 @@
         "active": "Tàng lồng",
         "unbanned": "Đạ pỏ ban",
         "expired": "Đạ mết hạn",
-        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ.",
-        "noBans": "Chưa có lượt ban nào"
+        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
     },
     "mutes": {
         "title": "Danh sách Mute",
@@ -196,8 +195,7 @@
         "active": "Tàng lồng",
         "unmuted": "Đạ pỏ mute",
         "expired": "Đạ mết hạn",
-        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ.",
-        "noMutes": "Chưa có lượt mute nào"
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
     },
     "logs": {
         "title": "Sổ ghi hoạt động",

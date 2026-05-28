@@ -15,7 +15,7 @@
         "rankings": "Xếp thứ",
         "battleMode": "Battle Mode",
         "admin": "Admin Panel",
-        "login": "Đăng nhập",
+        "login": "Đăng nhập", 
         "register": "Đăng ký",
         "logout": "Ók mạng",
         "support": "Giúp đỡ",
@@ -99,6 +99,5 @@
         "guest": "Khách",
         "warning": "Lỉn game quá 180 phút/vằn hại thâng sức khỏe",
         "loadingWarning": "Lỉn game quá 180 phút mỗi vằn hại thâng sức khỏe."
-    },
-    "optional": "Tùy chọn"
+    }
 }

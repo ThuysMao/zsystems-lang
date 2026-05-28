@@ -13,7 +13,7 @@
         "points": "Điểm",
         "rank": "Hạng",
         "kd": "K/D",
-        "hsr": "HS%",
+        "hsr": "HS%", 
         "winRate": "Tỉ lệ thắng",
         "playtime": "Thời gian lỉn",
         "kills": "Kills",
@@ -76,26 +76,14 @@
         "terroristHours": "Giờ đội T",
         "ctHours": "Giờ đội CT",
         "spectatorHours": "Giờ chòi",
-        "close": "Hắp",
-        "subtitle": "Thống kê chi tiết trên từng máy chủ",
-        "back": "Quay lại",
-        "dominationKills": "Domination",
-        "ctRounds": "Vòng CT",
-        "tRounds": "Vòng T",
-        "weaponName": "Vũ khí",
-        "weaponKills": "Kills",
-        "weaponHS": "HS",
-        "weaponHSR": "HS%",
-        "weaponAccuracy": "Độ chính xác"
+        "close": "Hắp"
     },
     "context": {
         "label": "Cần lỉn",
         "viewProfile": "Chòi hồ sơ",
         "openSteam": "Kháư Steam Profile",
         "copySteamId": "Chép lặp Steam ID",
-        "copied": "Đạ chép lặp!",
-        "verifiedStaff": "Trang cá nhân chính thức: zSystems đã xác nhận rằng đây là tài khoản của Ban quản trị / Nhân sự chính thức thuộc hệ thống Cộng đồng 7-Màu.",
-        "verifiedUser": "Tài khoản đã xác minh: zSystems đã xác nhận tài khoản này là chính chủ, đã liên kết tài khoản Steam và xác minh địa chỉ Email thành công."
+        "copied": "Đạ chép lặp!"
     },
     "aiWarning": {
         "title": "Trang Rank đảy chế vị AI Claude Opus 4.7",

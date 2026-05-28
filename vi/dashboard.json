@@ -101,12 +101,7 @@
         "success": "Đã thực hiện {action} đối với {player}",
         "failed": "Thực hiện thất bại",
         "socialLink": "LIÊN KẾT MẠNG XÃ HỘI",
-        "statsChecker": "CÔNG CỤ KIỂM TRA CHỈ SỐ",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "statsChecker": "CÔNG CỤ KIỂM TRA CHỈ SỐ"
     },
     "privilege": {
         "title": "Đặc quyền Máy chủ",

@@ -168,13 +168,12 @@
         "permanent": "Vĩnh viễn",
         "active": "Đang hoạt động",
         "unbanned": "Đã bỏ ban",
-        "expired": "Đã hết hạn",
-        "noBans": "Chưa có lượt ban nào"
+        "expired": "Đã hết hạn"
     },
     "mutes": {
         "title": "Danh sách Mute",
         "addMute": "Thêm Mute",
-        "addMuteDescription": "Tạo mới lệnh cấm câm/gặp (mute) trên hệ thống máy chủ.",
+        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ.",
         "playerName": "Tên người chơi",
         "playerSteamId": "Steam ID người chơi",
         "adminName": "Admin",
@@ -196,8 +195,7 @@
         "silence": "SILENCE (Cả hai)",
         "active": "Đang hoạt động",
         "unmuted": "Đã bỏ mute",
-        "expired": "Đã hết hạn",
-        "noMutes": "Chưa có lượt mute nào"
+        "expired": "Đã hết hạn"
     },
     "logs": {
         "title": "Nhật ký hoạt động",

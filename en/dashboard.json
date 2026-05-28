@@ -101,12 +101,7 @@
         "success": "Successfully executed {action} on {player}",
         "failed": "Action failed",
         "socialLink": "SOCIAL LINK",
-        "statsChecker": "STATS CHECKER",
-        "noSteamInfo": "No SteamID info provided",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX or Profile URL...",
-        "autoResolveHint": "Automatically resolves profile from SteamID64, profile link, or vanity URL",
-        "selectDuration": "Select duration",
-        "selectReason": "Select a reason"
+        "statsChecker": "STATS CHECKER"
     },
     "privilege": {
         "title": "Server Privileges",

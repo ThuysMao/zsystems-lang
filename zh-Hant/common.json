@@ -98,7 +98,5 @@
         "greeting_evening": "晚上好，{name}",
         "guest": "訪客",
         "warning": "每日遊戲超過 180 分鐘可能影響健康",
-        "loadingWarning": "每天遊戲超過 180 分鐘可能影響健康。"
-    },
-    "optional": "Tùy chọn"
+        "loadingWarning": "每天遊戲超過 180 分鐘可能影響健康。"    }
 }

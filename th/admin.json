@@ -182,8 +182,7 @@
         "permanent": "ถาวร",
         "active": "กำลังใช้งาน",
         "unbanned": "ยกเลิกแบนแล้ว",
-        "expired": "หมดอายุแล้ว",
-        "noBans": "Chưa có lượt ban nào"
+        "expired": "หมดอายุแล้ว"
     },
     "mutes": {
         "title": "รายชื่อมิวท์",
@@ -210,8 +209,7 @@
         "silence": "SILENCE (ทั้งคู่)",
         "active": "กำลังใช้งาน",
         "unmuted": "ยกเลิกมิวท์แล้ว",
-        "expired": "หมดอายุแล้ว",
-        "noMutes": "Chưa có lượt mute nào"
+        "expired": "หมดอายุแล้ว"
     },
     "logs": {
         "title": "บันทึกกิจกรรม",

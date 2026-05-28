@@ -10,7 +10,7 @@
         "mutes": "Silenciamentos / Gags",
         "skins": "Skins",
         "skinCollections": "Coleções",
-        "zmodels": "zModels",
+        "zmodels": "zModels",  
         "zweapons": "zWeapons",
         "rankings": "Classificações",
         "battleMode": "Modo de Batalha",
@@ -99,6 +99,5 @@
         "guest": "Convidado",
         "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde",
         "loadingWarning": "Jogar mais de 180 minutos por dia afeta a saúde."
-    },
-    "optional": "Tùy chọn"
+    }
 }

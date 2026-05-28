@@ -99,6 +99,5 @@
         "guest": "Guest",
         "warning": "Playing games over 180 mins/day affects health",
         "loadingWarning": "Playing games over 180 minutes per day affects health."
-    },
-    "optional": "Optional"
+    }
 }

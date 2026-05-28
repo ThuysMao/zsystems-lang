@@ -7,7 +7,7 @@
         "accounts": "Pamamahala ng Account",
         "servers": "Pamamahala ng Server",
         "bans": "Pamamahala ng Ban",
-        "mutes": "Pamamahala ng Mute",
+        "mutes": "Pamamahala ng Mute", 
         "logs": "Mga Log",
         "settings": "Mga Setting"
     },
@@ -168,8 +168,7 @@
         "active": "Aktibo",
         "unbanned": "Na-unban",
         "expired": "Expired",
-        "addBanDescription": "Gumawa ng bagong ban sa sistema ng server.",
-        "noBans": "Chưa có lượt ban nào"
+        "addBanDescription": "Gumawa ng bagong ban sa sistema ng server."
     },
     "mutes": {
         "title": "Listahan ng Mute",
@@ -196,8 +195,7 @@
         "active": "Aktibo",
         "unmuted": "Na-unmute",
         "expired": "Expired",
-        "addMuteDescription": "Gumawa ng bagong mute sa chat/mic sa server system.",
-        "noMutes": "Chưa có lượt mute nào"
+        "addMuteDescription": "Gumawa ng bagong mute sa chat/mic sa server system."
     },
     "logs": {
         "title": "Mga Log ng Aktibidad",

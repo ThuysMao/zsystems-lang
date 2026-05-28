@@ -12,7 +12,7 @@
         "player": "Pemain",
         "points": "Mata",
         "rank": "Pangkat",
-        "kd": "K/D",
+        "kd": "K/D", 
         "hsr": "HS%",
         "winRate": "Kadar Menang",
         "playtime": "Masa Main",
@@ -76,26 +76,14 @@
         "terroristHours": "Jam Pasukan T",
         "ctHours": "Jam Pasukan CT",
         "spectatorHours": "Jam Penonton",
-        "close": "Tutup",
-        "subtitle": "Thống kê chi tiết trên từng máy chủ",
-        "back": "Quay lại",
-        "dominationKills": "Domination",
-        "ctRounds": "Vòng CT",
-        "tRounds": "Vòng T",
-        "weaponName": "Vũ khí",
-        "weaponKills": "Kills",
-        "weaponHS": "HS",
-        "weaponHSR": "HS%",
-        "weaponAccuracy": "Độ chính xác"
+        "close": "Tutup"
     },
     "context": {
         "label": "Pemain",
         "viewProfile": "Lihat Profil",
         "openSteam": "Buka Profil Steam",
         "copySteamId": "Salin Steam ID",
-        "copied": "Disalin!",
-        "verifiedStaff": "Trang cá nhân chính thức: zSystems đã xác nhận rằng đây là tài khoản của Ban quản trị / Nhân sự chính thức thuộc hệ thống Cộng đồng 7-Màu.",
-        "verifiedUser": "Tài khoản đã xác minh: zSystems đã xác nhận tài khoản này là chính chủ, đã liên kết tài khoản Steam và xác minh địa chỉ Email thành công."
+        "copied": "Disalin!"
     },
     "aiWarning": {
         "title": "Halaman ini dijana oleh AI Claude Opus 4.7",

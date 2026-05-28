@@ -8,7 +8,7 @@
         "servers": "Pelayan",
         "bans": "Sekatan",
         "mutes": "Senyap / Gag",
-        "skins": "Kulit",
+        "skins": "Kulit", 
         "skinCollections": "Koleksi",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
@@ -99,6 +99,5 @@
         "guest": "Tetamu",
         "warning": "Bermain lebih 180 minit/hari menjejaskan kesihatan",
         "loadingWarning": "Bermain permainan lebih daripada 180 minit setiap hari boleh menjejaskan kesihatan."
-    },
-    "optional": "Tùy chọn"
+    }
 }
