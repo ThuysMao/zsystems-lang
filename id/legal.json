@@ -10,10 +10,10 @@
             "steamAuthContent": "Sistem kami menggunakan API resmi Valve untuk autentikasi Steam OpenID. Kami tidak meminta atau menyimpan kata sandi Steam Anda. Anda bertanggung jawab atas keamanan akun Steam Anda.",
             "identityTitle": "Identifikasi Pengguna",
             "identityContent": "Setiap pengguna diidentifikasi oleh 7ID (kode internal di zSystems), SteamID64, dan Alamat IP. Jika akun Anda digunakan oleh orang lain untuk melanggar aturan 7-Mau, akun tersebut tetap akan dikenakan sanksi tanpa pengecualian.",
-            "ageLimitTitle": "<underlineIndigo>Yêu cầu độ tuổi & Khuyến cáo thời gian chơi</underlineIndigo>",
-            "ageLimitContent": "Dịch vụ và các máy chủ của 7-Màu chỉ dành cho người chơi từ <bold>đủ 18 tuổi trở lên</bold>. Chúng tôi khuyến cáo người chơi không nên tham gia chơi quá <highlightAmber>180 phút mỗi ngày</highlightAmber> để bảo vệ sức khỏe thể chất và tinh thần theo đúng các quy định của nhà phát hành tại Việt Nam.",
-            "accountSharingTitle": "<underlineRed>Bảo mật & Nghiêm cấm chia sẻ tài khoản</underlineRed>",
-            "accountSharingContent": "Bạn hoàn toàn chịu trách nhiệm bảo mật tài khoản Steam của mình. Hệ thống <highlightRed>nghiêm cấm mọi hành vi chia sẻ tài khoản</highlightRed> cho bất kỳ ai khác sử dụng chung (bao gồm cả bạn bè và người thân). Mọi vi phạm quy chế hoặc lệnh cấm chơi phát sinh do bên thứ ba sử dụng tài khoản của bạn gây ra sẽ vẫn được áp dụng triệt để và không được xem xét gỡ lệnh cấm."
+            "ageLimitTitle": "<underlineIndigo>Persyaratan usia & Rekomendasi waktu bermain</underlineIndigo>",
+            "ageLimitContent": "Layanan dan seluruh server 7-Warna hanya diperuntukkan bagi pemain yang <bold>berusia 18 tahun ke atas</bold>. Kami menyarankan pemain untuk tidak bermain lebih dari <highlightAmber>180 menit per hari</highlightAmber> demi menjaga kesehatan fisik dan mental sesuai dengan peraturan resmi penerbit di Vietnam.",
+            "accountSharingTitle": "<underlineRed>Keamanan & Larangan keras berbagi akun</underlineRed>",
+            "accountSharingContent": "Anda bertanggung jawab penuh atas keamanan akun Steam milik Anda. Sistem <highlightRed>melarang keras segala bentuk berbagi akun</highlightRed> kepada siapa pun untuk digunakan bersama (termasuk teman maupun keluarga). Segala pelanggaran aturan atau hukuman ban yang terjadi akibat penggunaan akun Anda oleh pihak ketiga akan tetap diberlakukan sepenuhnya dan tidak akan dipertimbangkan untuk pencabutan ban."
         },
         "section2": {
             "title": "2. Kebijakan Anti-Cheat Tanpa Toleransi",
