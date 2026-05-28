@@ -47,6 +47,52 @@
             "resetContent": "Để đảm bảo tính công bằng và cân bằng hệ thống, 7-Màu Community có toàn quyền <highlightRed>xóa sạch toàn bộ dữ liệu</highlightRed> thống kê (chỉ số thống kê, thứ hạng và điểm số xếp hạng) bất cứ lúc nào mà không cần đền bù hoặc thông báo trước."
         }
     },
+    "privacy": {
+        "title": "Chính Sách Bảo Mật & Thu Thập Dữ Liệu",
+        "subtitle": "Chính sách bảo mật · Cập nhật lần cuối: 01/03/2026",
+        "intro": "Web Dashboard zSystems — được phát triển bởi <bold>zhw1nq</bold> và <bold>7-Mau TEAM</bold> — là một công cụ xử lý dữ liệu quy mô lớn được thiết kế để cung cấp số liệu thống kê chi tiết (Stats) cho cộng đồng CS2 tại <bold>7-mau.com</bold>. Dưới đây là cách chúng tôi thu thập và vận hành nguồn dữ liệu này.",
+        "section1": {
+            "title": "1. Dữ liệu hệ thống được thu thập tự động",
+            "note": "Ngay khi bạn kết nối vào máy chủ trò chơi hoặc đăng nhập vào <bold>7-mau.com</bold>, các công cụ quét và plugin của chúng tôi sẽ lập tức thu thập:",
+            "basicDataTitle": "Dữ liệu định danh cơ bản",
+            "basicDataContent": "SteamID32, SteamID64, 7ID (mã số định danh nội bộ zSystems), tên hiển thị hiện tại, lịch sử thay đổi tên, đường dẫn ảnh đại diện (Avatar URL), liên kết trang cá nhân Steam.",
+            "steamStatusTitle": "Trạng thái tài khoản Steam",
+            "steamStatusContent": "Tự động kiểm tra trạng thái VAC Ban, Game Ban, Trade Ban và cấp độ tài khoản Steam thông qua Steam Web API.",
+            "serverDataTitle": "Dữ liệu từ máy chủ",
+            "serverDataContent": "Địa chỉ IP mạng của bạn, thời gian phản hồi (Ping), thông tin quốc gia / vùng lãnh thổ.",
+            "telemetryTitle": "Dữ liệu trong trò chơi (Dữ liệu đo lường chuyên sâu)",
+            "telemetryContent": "Mọi hành động của bạn trên máy chủ đều được ghi lại, bao gồm: tọa độ di chuyển, lịch sử K/D/A, lượng sát thương gây ra, vũ khí sử dụng, vị trí trúng đạn (bắn vào đầu, ngực, v.v.) và nhật ký trò chuyện (văn bản)."
+        },
+        "section2": {
+            "title": "2. Tính chất công khai của dữ liệu thống kê",
+            "note": "Đây là nền tảng cốt lõi của Web Dashboard zSystems.",
+            "publicData": "Toàn bộ số liệu thống kê trong trò chơi (Stats), Xếp hạng (Rank), Điểm xếp hạng (ELO), lịch sử trận đấu và trạng thái trực tuyến của bạn trên các máy chủ 7-Màu đều là <bold>DỮ LIỆU CÔNG KHAI</bold>.",
+            "publicAccess": "Bất kỳ người dùng nào truy cập vào <bold>*.7-mau.com</bold> đều có thể tìm kiếm và xem Hồ sơ người chơi chi tiết của bạn trên hệ thống của chúng tôi.",
+            "noPrivateProfile": "Thống kê không hỗ trợ chế độ ẩn danh: Bằng việc tham gia chơi tại các máy chủ của chúng tôi, bạn đồng ý rằng các thành tích (và lịch sử xử phạt) của mình sẽ được hiển thị công khai trên bảng xếp hạng. Để đảm bảo tính minh bạch cho cộng đồng, chúng tôi không hỗ trợ chức năng <underline>\"ẩn hồ sơ\"</underline> (Private Profile) trên trang quản trị."
+        },
+        "section3": {
+            "title": "3. Lưu trữ dữ liệu hồ sơ xử phạt",
+            "banData": "Dữ liệu về các tài khoản vi phạm (bị cấm chơi/cấm nói/cấm trò chuyện) bao gồm 7ID, SteamID, lý do phạt, thời hạn xử phạt và tên hiển thị tại thời điểm vi phạm sẽ được lưu trữ vĩnh viễn và công khai trên Danh sách cấm (zSystems Ban List).",
+            "sharing": "Hệ thống có thể chia sẻ danh sách cấm này với các đối tác / cộng đồng CS2 khác nhằm chung tay xây dựng môi trường trò chơi lành mạnh, sạch bóng gian lận."
+        },
+        "section4": {
+            "title": "4. Sử dụng Cookie & Phiên làm việc trên Web",
+            "note": "Trang quản trị <bold>7-mau.com</bold> sử dụng Cookie và Bộ nhớ cục bộ (Local Storage) trên trình duyệt của bạn để:",
+            "cookieLogin": "Duy trì trạng thái đăng nhập (Ghi nhớ đăng nhập).",
+            "cookieUi": "Lưu trữ cấu hình giao diện cá nhân (Chế độ tối / sáng, ngôn ngữ hiển thị).",
+            "cookieAnalytics": "Theo dõi lưu lượng truy cập thông qua các công cụ phân tích (ví dụ: Google Analytics) nhằm giúp ban quản trị đánh giá hiệu suất trang web."
+        },
+        "section5": {
+            "title": "5. Bảo vệ dữ liệu nội bộ",
+            "content": "Mặc dù dữ liệu trò chơi của bạn được hiển thị công khai trên trang thống kê, các thông tin nhạy cảm ở cấp độ hệ thống như: địa chỉ IP thực, lịch sử giao dịch (mua gói ưu tiên VIP) và lịch sử liên kết tài khoản (Discord / Steam) đều được mã hóa và bảo vệ nghiêm ngặt. Chỉ Quản trị viên cấp cao (Root Admin) mới có quyền truy cập cơ sở dữ liệu gốc này."
+        },
+        "section6": {
+            "title": "6. Phương thức liên hệ Ban quản trị",
+            "intro": "Đối với các vấn đề liên quan đến khiếu nại tài khoản, báo lỗi trang web hoặc các câu hỏi về điều khoản, vui lòng liên hệ trực tiếp với chúng tôi qua các kênh chính thức:",
+            "discordLabel": "Cổng hỗ trợ (Discord Ticket):",
+            "emailLabel": "Email Ban quản trị:"
+        }
+    },
     "rules": {
         "title": "Luật Máy Chủ & Quy Định Hình Phạt",
         "subtitle": "Quy định Máy chủ · Cập nhật lần cuối: 28/05/2026",

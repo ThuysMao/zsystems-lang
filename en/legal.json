@@ -47,6 +47,52 @@
             "resetContent": "Để đảm bảo tính công bằng và cân bằng hệ thống, 7-Màu Community có toàn quyền <highlightRed>xóa sạch toàn bộ dữ liệu</highlightRed> thống kê (chỉ số thống kê, thứ hạng và điểm số xếp hạng) bất cứ lúc nào mà không cần đền bù hoặc thông báo trước."
         }
     },
+    "privacy": {
+        "title": "Privacy & Data Collection Policy",
+        "subtitle": "Privacy Policy · Last updated: 03/01/2026",
+        "intro": "Web Dashboard zSystems — developed by <bold>zhw1nq</bold> and the <bold>7-Mau TEAM</bold> — is a massive data processing engine designed to provide the most detailed statistics (Stats) for the CS2 community on <bold>7-mau.com</bold>. Below is how we collect and operate this data repository.",
+        "section1": {
+            "title": "1. Automatically Collected System Data",
+            "note": "As soon as you connect to a game server or log into <bold>7-mau.com</bold>, our crawlers and plug-ins immediately collect:",
+            "basicDataTitle": "Basic Identity Data",
+            "basicDataContent": "SteamID32, SteamID64, 7ID (zSystems internal code), current display name, name history, avatar URL, Steam Profile link.",
+            "steamStatusTitle": "Steam Account Status",
+            "steamStatusContent": "Automatic verification of VAC Ban, Game Ban, Trade Ban status, and Steam account level via the Steam Web API.",
+            "serverDataTitle": "Server-Side Data",
+            "serverDataContent": "Your network IP address, Ping, and country/region information.",
+            "telemetryTitle": "In-Game Data (Deep Telemetry Data)",
+            "telemetryContent": "All your actions in the server are recorded, including: movement coordinates, K/D/A history, damage dealt, weapons used, hitboxes hit (headshot, chest, etc.), and chat log data (text)."
+        },
+        "section2": {
+            "title": "2. Public Nature of Statistical Data",
+            "note": "This is the core foundation of the Web Dashboard zSystems.",
+            "publicData": "All in-game statistics (Stats), Rank, ELO, Match History, and your online status on 7-Mau servers are PUBLIC DATA.",
+            "publicAccess": "Any user visiting <bold>*.7-mau.com</bold> can search and view your detailed Player Profile in our system.",
+            "noPrivateProfile": "No anonymity option for Stats: By playing on our servers, you accept that your achievements (and ban history) will be displayed publicly on the leaderboard. To ensure community transparency, we do not support \"hiding profiles\" (Private Profile) on the web dashboard."
+        },
+        "section3": {
+            "title": "3. Ban Records Data Storage",
+            "banData": "Data regarding violating accounts (Banned/Muted/Gagged), including 7ID, SteamID, ban reason, duration, and display name at the time of violation will be permanently stored and published in the zSystems Ban List.",
+            "sharing": "The system may share these ban lists with other CS2 communities/partners to build a cleaner gaming environment."
+        },
+        "section4": {
+            "title": "4. Cookie & Web Session Usage",
+            "note": "The 7-mau.com web dashboard uses Cookies and Local Storage in your browser to:",
+            "cookieLogin": "Maintain login sessions (Keep Logged In).",
+            "cookieUi": "Save interface preferences (dark theme / light theme, display language).",
+            "cookieAnalytics": "Track traffic through analytics tools (such as Google Analytics) to help the administration team evaluate website performance."
+        },
+        "section5": {
+            "title": "5. Internal Data Protection",
+            "content": "Although your game data is publicly displayed on the Dashboard, sensitive system-level information such as actual IP address, transaction history (VIP purchase), and account link history (Discord / Steam) are encrypted and strictly protected. Only senior administrators (Root Admin) have access to the raw database."
+        },
+        "section6": {
+            "title": "6. Contacting the Administration",
+            "intro": "For account appeals, web bug reports, or policy questions, please contact us directly through our official channels:",
+            "discordLabel": "Support Ticket (Discord):",
+            "emailLabel": "Administrator Email:"
+        }
+    },
     "rules": {
         "title": "Luật Máy Chủ & Quy Định Hình Phạt",
         "subtitle": "Quy định Máy chủ · Cập nhật lần cuối: 28/05/2026",
