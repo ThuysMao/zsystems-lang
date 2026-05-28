@@ -19,7 +19,8 @@
         "register": "註冊",
         "logout": "登出",
         "support": "支援",
-        "matches": "「比賽"
+        "matches": "「比賽",
+        "rules": "Quy định"
     },
     "actions": {
         "copy": "複製",

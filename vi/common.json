@@ -19,7 +19,8 @@
         "login": "Đăng nhập",
         "register": "Đăng ký",
         "logout": "Đăng xuất",
-        "support": "Hỗ trợ"
+        "support": "Hỗ trợ",
+        "rules": "Quy định"
     },
     "actions": {
         "copy": "Sao chép",

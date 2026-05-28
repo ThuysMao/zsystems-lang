@@ -19,7 +19,8 @@
         "register": "Magrehistro",
         "logout": "Mag-logout",
         "support": "Suporta",
-        "matches": "Mga Laban"
+        "matches": "Mga Laban",
+        "rules": "Quy định"
     },
     "actions": {
         "copy": "Kopyahin",

@@ -19,7 +19,8 @@
         "register": "စာရင်းသွင်းရန်",
         "logout": "ထွက်ရန်",
         "support": "အကူအညီ",
-        "matches": "ပွဲစဉ်"
+        "matches": "ပွဲစဉ်",
+        "rules": "Quy định"
     },
     "actions": {
         "copy": "ကူးယူ",

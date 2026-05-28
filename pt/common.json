@@ -19,7 +19,8 @@
         "register": "Registrar",
         "logout": "Sair",
         "support": "Suporte",
-        "matches": "Partida"
+        "matches": "Partida",
+        "rules": "Quy định"
     },
     "actions": {
         "copy": "Copiar",
